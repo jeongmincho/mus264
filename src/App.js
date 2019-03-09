@@ -1,6 +1,10 @@
 import React, { Component } from "react";
 import "./App.css";
 import ReactPlayer from "react-player";
+import ReactGA from "react-ga";
+
+ReactGA.initialize("UA-135966055-1");
+ReactGA.pageview(window.location.pathname + window.location.search);
 
 class App extends Component {
   state = {
