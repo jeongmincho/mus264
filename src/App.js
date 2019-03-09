@@ -752,7 +752,7 @@ class App extends Component {
     ]
   };
 
-  createElements = () => {
+  createElements = event => {
     let table = [];
     var flag = this.state.weekFlag;
     this.state.songs.forEach(function(tune) {
@@ -760,6 +760,7 @@ class App extends Component {
         table.push(<p>{tune.title}</p>);
         table.push(
           <ReactPlayer
+            className="player"
             width={"100%"}
             height={50}
             url={tune.link}
@@ -797,6 +798,9 @@ class App extends Component {
           <button onClick={this.toggleWeekHandler.bind(this, 5)}>Week 6</button>
         </div>
         <div className="content">{this.createElements()}</div>
+        <div className="disclaimer">
+          Works only on web, best on Chrome or Firefox
+        </div>
         <div className="footer">
           <span id="heart">&#169;</span> because blackboard is an absolute pain
           in the derrière

@@ -64,6 +64,12 @@ button {
   color: #61dafb;
 }
 
+.disclaimer {
+  margin: 10px;
+  font-size: 10px;
+  text-align: center;
+}
+
 .footer {
   bottom: 0;
   right: 0;
