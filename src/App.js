@@ -8,85 +8,88 @@ class App extends Component {
     weekToggles: [false, false, false, false, false, false],
     songs: [
       {
-        title: "Over the Rainbow",
+        title: "Somewhere Over the Rainbow - Judy Garland (1939)",
         link:
           "https://cdnapisec.kaltura.com/p/1536481/sp/153648100/playManifest/entryId/1_wt3e6u3w/flavorIds/1_8klqznfy,1_6r27y9ts/format/applehttp/protocol/https/a.m3u8?referrer=aHR0cHM6Ly9saWJ3ZWIxMC5wcmluY2V0b24uZWR1&ks=YmVjYWYxNjQxMmJmOTIxMWUwMTc1OGRiYmJiZDAyMzQ2MTA4MGI5ZnwxNTM2NDgxOzE1MzY0ODE7MTU1MjE5NjIxMjsyOzYzNjg3Njg4NjEyMDgxMDQyNztidXNlckBwcmluY2V0b24uZWR1O3N2aWV3OiAxX3d0M2U2dTN3Ow==&playSessionId=a98d19f3-95fd-0f03-0f18-fde51db5bcb1&clientTag=html5:v2.74.4&uiConfId=16552211",
         week: 0
       },
       {
-        title: "All or Nothing at All",
+        title: "All or Nothing at All - Frank Sinatra (1940; 1943)",
         link:
           "https://cdnapisec.kaltura.com/p/1536481/sp/153648100/playManifest/entryId/1_kjlm0fi2/flavorIds/1_n4513bs6/format/applehttp/protocol/https/a.m3u8?referrer=aHR0cHM6Ly9saWJ3ZWIxMC5wcmluY2V0b24uZWR1&ks=YzIyMDI1Zjc2ZDI1ZGQ0ZDFhZTM1YjFjZDg3NWZjNDVhMDI1MDdiOXwxNTM2NDgxOzE1MzY0ODE7MTU1MjIwMDU4NTsyOzYzNjg3NjkyOTg1MzQ2NjY3NztidXNlckBwcmluY2V0b24uZWR1O3N2aWV3OiAxX2tqbG0wZmkyOw==&playSessionId=a1eb6639-cbe2-bbcd-164b-f64b37346da1&clientTag=html5:v2.74.4&uiConfId=16552211",
         week: 0
       },
       {
-        title: "Sitting on Top of the World",
+        title:
+          "I'm Sitting on Top of the World - Les Paul, guitar; Mary Ford, vocals. (March 1953)",
         link:
           "https://cdnapisec.kaltura.com/p/1536481/sp/153648100/playManifest/entryId/1_v5iv4u4f/flavorIds/1_rzwla99y/format/applehttp/protocol/https/a.m3u8?referrer=aHR0cHM6Ly9saWJ3ZWIxMC5wcmluY2V0b24uZWR1&ks=MGJjZmZlMTg5MzRiNzlmM2FiNWFjZjliYjczNDZiMGFhMTVjMDkzNnwxNTM2NDgxOzE1MzY0ODE7MTU1MjIwMDcwNjsyOzYzNjg3NjkzMTA2MjIxNjY3NztidXNlckBwcmluY2V0b24uZWR1O3N2aWV3OiAxX3Y1aXY0dTRmOw==&playSessionId=7693de99-5f7e-3ef2-926d-c721ac679ab6&clientTag=html5:v2.74.4&uiConfId=16552211",
         week: 0
       },
       {
-        title: "How Much is that Doggie",
+        title:
+          "How Much is That Doggie in the Window - Patti Page, vocals (March 1953)",
         link:
           "https://cdnapisec.kaltura.com/p/1536481/sp/153648100/playManifest/entryId/1_zext5hmn/flavorIds/1_lzytjhbr/format/applehttp/protocol/https/a.m3u8?referrer=aHR0cHM6Ly9saWJ3ZWIxMC5wcmluY2V0b24uZWR1&ks=NzliYzRjNDljYWZmMThlMWE0YjdiMTk2NDE0YzJjNjgyZjVjMDEyNHwxNTM2NDgxOzE1MzY0ODE7MTU1MjIwMDcyMTsyOzYzNjg3NjkzMTIxODQ2NjY3NztidXNlckBwcmluY2V0b24uZWR1O3N2aWV3OiAxX3pleHQ1aG1uOw==&playSessionId=e839a6df-ce0b-4dd9-b20d-2e1a2c798e51&clientTag=html5:v2.74.4&uiConfId=16552211",
         week: 0
       },
       {
-        title: "Secret Love",
+        title: "Secret Love - Doris Day (March 1954)",
         link:
           "https://cdnapisec.kaltura.com/p/1536481/sp/153648100/playManifest/entryId/1_9vz9u8l7/flavorIds/1_xfcihyun/format/applehttp/protocol/https/a.m3u8?referrer=aHR0cHM6Ly9saWJ3ZWIxMC5wcmluY2V0b24uZWR1&ks=ODFiNjgyZjNlM2I0NDk2NWMzMmNlNGU0YTk4ZjMyMjYyZGU0YmMyM3wxNTM2NDgxOzE1MzY0ODE7MTU1MjIwMDc0NDsyOzYzNjg3NjkzMTQ0MjIxNjY3NztidXNlckBwcmluY2V0b24uZWR1O3N2aWV3OiAxXzl2ejl1OGw3Ow==&playSessionId=8c3c2830-fc7c-565b-34fb-81c3d89aa7ce&clientTag=html5:v2.74.4&uiConfId=16552211",
         week: 0
       },
       {
-        title: "April Love",
+        title: "April Love - Pat Boone (October 1957)",
         link:
           "https://cdnapisec.kaltura.com/p/1536481/sp/153648100/playManifest/entryId/1_zifq9grz/flavorIds/1_6zuyw6l6/format/applehttp/protocol/https/a.m3u8?referrer=aHR0cHM6Ly9saWJ3ZWIxMC5wcmluY2V0b24uZWR1&ks=NDBiZDlhNWJjYWNmN2I5ZTk1MDdkMDYzMzJiMWJkOTI1ZWMwN2Q2NXwxNTM2NDgxOzE1MzY0ODE7MTU1MjIwMzMxMTsyOzYzNjg3Njk1NzExMzQ2NjY3NztidXNlckBwcmluY2V0b24uZWR1O3N2aWV3OiAxX3ppZnE5Z3J6Ow==&playSessionId=5f408bd9-d5db-92d4-ca1d-20923e7ab996&clientTag=html5:v2.74.4&uiConfId=16552211",
         week: 0
       },
       {
-        title: "Future Blues",
+        title: "Future Blues - Willie Brown, vocals, guitar (1930)",
         link:
           "https://cdnapisec.kaltura.com/p/1536481/sp/153648100/playManifest/entryId/1_hwkecagw/flavorIds/1_6rclk7k2/format/applehttp/protocol/https/a.m3u8?referrer=aHR0cHM6Ly9saWJ3ZWIxMC5wcmluY2V0b24uZWR1&ks=ZmE4NzlkMmVmZjhjODNmOTY4MmY0MzZjMTFiN2JlYzJhZWZmODBkZXwxNTM2NDgxOzE1MzY0ODE7MTU1MjIwMDg2MDsyOzYzNjg3NjkzMjYwNDcxNjY3NztidXNlckBwcmluY2V0b24uZWR1O3N2aWV3OiAxX2h3a2VjYWd3Ow==&playSessionId=d22cb377-8fd3-42dd-cd28-3315514017b4&clientTag=html5:v2.74.4&uiConfId=16552211",
         week: 0
       },
       {
-        title: "Cross Road Blues",
+        title: "Cross Road Blues - Robert Johnson (November 1936)",
         link:
           "https://cdnapisec.kaltura.com/p/1536481/sp/153648100/playManifest/entryId/1_bzqsl58f/flavorIds/1_6x9uian4/format/applehttp/protocol/https/a.m3u8?referrer=aHR0cHM6Ly9saWJ3ZWIxMC5wcmluY2V0b24uZWR1&ks=MjNhZTJkMzUwNTQxMTE3NTAyY2VjMDAyNmI2MjQ2NWVkMTdjZTMzY3wxNTM2NDgxOzE1MzY0ODE7MTU1MjIwMDg3NTsyOzYzNjg3NjkzMjc1MDk2NjY3NztidXNlckBwcmluY2V0b24uZWR1O3N2aWV3OiAxX2J6cXNsNThmOw==&playSessionId=04f29e1e-a372-3c46-cfa6-444a612345f3&clientTag=html5:v2.74.4&uiConfId=16552211",
         week: 0
       },
       {
-        title: "In the Mood",
+        title: "In the Mood - Glenn Miller and his Orchestra (1939)",
         link:
           "https://cdnapisec.kaltura.com/p/1536481/sp/153648100/playManifest/entryId/1_1puyextr/flavorIds/1_fo8m0nhb/format/applehttp/protocol/https/a.m3u8?referrer=aHR0cHM6Ly9saWJ3ZWIxMC5wcmluY2V0b24uZWR1&ks=MjM0ZGViYjI5MmYxNDY5N2QyMjM0N2MxNzZmOWQxOTljN2ZkMzgxYnwxNTM2NDgxOzE1MzY0ODE7MTU1MjIwMDg5MTsyOzYzNjg3NjkzMjkxMjIxNjY3NztidXNlckBwcmluY2V0b24uZWR1O3N2aWV3OiAxXzFwdXlleHRyOw==&playSessionId=3d6a2bd0-cd14-aa4e-27ba-d6d41472b602&clientTag=html5:v2.74.4&uiConfId=16552211",
         week: 0
       },
       {
-        title: "Bebop",
+        title: "BeBop - Dizzy Gillespie Quintet ; Charlie Parker, alto sax",
         link:
           "https://cdnapisec.kaltura.com/p/1536481/sp/153648100/playManifest/entryId/1_4fsl2nis/flavorIds/1_u9xsv9ph/format/applehttp/protocol/https/a.m3u8?referrer=aHR0cHM6Ly9saWJ3ZWIxMC5wcmluY2V0b24uZWR1&ks=MjVmMzAxZjc2YzY0ZDE3ZGU0ODU5OTMxMTk5ZDhlNmU4YmU3YmZjOHwxNTM2NDgxOzE1MzY0ODE7MTU1MjIwMzUxNTsyOzYzNjg3Njk1OTE1MjIxNjY3NztidXNlckBwcmluY2V0b24uZWR1O3N2aWV3OiAxXzRmc2wybmlzOw==&playSessionId=d6a60003-5420-b850-ff85-f2fda53e7f9b&clientTag=html5:v2.74.4&uiConfId=16552211",
         week: 0
       },
       {
-        title: "Caldonia",
+        title: "Caldonia - Louis Jordan and His Tympany Five (January 1945)",
         link:
           "https://cdnapisec.kaltura.com/p/1536481/sp/153648100/playManifest/entryId/1_j4b67u0i/flavorIds/1_uk1n1mkp/format/applehttp/protocol/https/a.m3u8?referrer=aHR0cHM6Ly9saWJ3ZWIxMC5wcmluY2V0b24uZWR1&ks=NjMwMWVmMTEzMWViNjA3NmZkMDRjM2Y4MjZkN2E2M2NkMDg4ZTdhM3wxNTM2NDgxOzE1MzY0ODE7MTU1MjIwMzU5NzsyOzYzNjg3Njk1OTk3NzIxNjY3NztidXNlckBwcmluY2V0b24uZWR1O3N2aWV3OiAxX2o0YjY3dTBpOw==&playSessionId=a03a6920-097c-c652-7c8f-c7b57723b14c&clientTag=html5:v2.74.4&uiConfId=16552211",
         week: 0
       },
       {
-        title: "Choo Choo Ch'Boogie",
+        title:
+          "Choo Choo Ch'Boogie - Louis Jordan and His Tympany Five (January 1945)",
         link:
           "https://cdnapisec.kaltura.com/p/1536481/sp/153648100/playManifest/entryId/1_u5sfigwq/flavorIds/1_yhgrwgg2/format/applehttp/protocol/https/a.m3u8?referrer=aHR0cHM6Ly9saWJ3ZWIxMC5wcmluY2V0b24uZWR1&ks=ZWU0NzliMTViNWRlMjVkYTNmZDczNTdhY2YyODc2MjA3YTk5ZjkxOXwxNTM2NDgxOzE1MzY0ODE7MTU1MjIwMzYxMjsyOzYzNjg3Njk2MDEyODQ2NjY3NztidXNlckBwcmluY2V0b24uZWR1O3N2aWV3OiAxX3U1c2ZpZ3dxOw==&playSessionId=72c8853c-e21a-5695-cbdd-848ba00baef1&clientTag=html5:v2.74.4&uiConfId=16552211",
         week: 0
       },
       {
-        title: "Good Rockin' Tonight",
+        title: "Good Rockin' Tonight - Wynonie Harris (December 1947)",
         link:
           "https://cdnapisec.kaltura.com/p/1536481/sp/153648100/playManifest/entryId/1_8lzut3tz/flavorIds/1_f265sc2s/format/applehttp/protocol/https/a.m3u8?referrer=aHR0cHM6Ly9saWJ3ZWIxMC5wcmluY2V0b24uZWR1&ks=MTUwYjIyNjAyN2QwM2EzNzIzMmNmMzcxMmUzOTI3Mzg1ODQzZGM3MHwxNTM2NDgxOzE1MzY0ODE7MTU1MjIwMzUxODsyOzYzNjg3Njk1OTE4NzIxNjY3NztidXNlckBwcmluY2V0b24uZWR1O3N2aWV3OiAxXzhsenV0M3R6Ow==&playSessionId=0b74d197-55e2-156c-ce0a-0ae188d56911&clientTag=html5:v2.74.4&uiConfId=16552211",
         week: 0
       },
       {
-        title: "Fat Man",
+        title: "The Fat Man - Fats Domino, vocals, piano (1949)",
         link:
           "https://cdnapisec.kaltura.com/p/1536481/sp/153648100/playManifest/entryId/1_iknw3kdh/flavorIds/1_70sxn2to/format/applehttp/protocol/https/a.m3u8?referrer=aHR0cHM6Ly9saWJ3ZWIxMC5wcmluY2V0b24uZWR1&ks=NmZhN2JmODEyYzg0MTU5YzllYWE3Yzg1Mjg1MWIyYzE0ODgwMDI3MnwxNTM2NDgxOzE1MzY0ODE7MTU1MjIwMzUxOTsyOzYzNjg3Njk1OTE5NTk2NjY3NztidXNlckBwcmluY2V0b24uZWR1O3N2aWV3OiAxX2lrbncza2RoOw==&playSessionId=d93a853c-ad54-689e-a8ef-ad397320b5ef&clientTag=html5:v2.74.4&uiConfId=16552211",
         week: 0
@@ -752,7 +755,13 @@ class App extends Component {
       if (flag === tune.week) {
         table.push(<p>{tune.title}</p>);
         table.push(
-          <ReactPlayer height={50} url={tune.link} onStart controls />
+          <ReactPlayer
+            width={"100%"}
+            height={50}
+            url={tune.link}
+            onStart
+            controls
+          />
         );
       }
     });
@@ -773,35 +782,21 @@ class App extends Component {
   };
 
   render() {
-    const style = {
-      backgroundColor: "white",
-      font: "inherit",
-      margin: "10px",
-      border: "1px solid blue",
-      padding: "8px"
-    };
-
     return (
       <div>
-        <button style={style} onClick={this.toggleWeekHandler.bind(this, 0)}>
-          Week 1
-        </button>
-        <button style={style} onClick={this.toggleWeekHandler.bind(this, 1)}>
-          Week 2
-        </button>
-        <button style={style} onClick={this.toggleWeekHandler.bind(this, 2)}>
-          Week 3
-        </button>
-        <button style={style} onClick={this.toggleWeekHandler.bind(this, 3)}>
-          Week 4
-        </button>
-        <button style={style} onClick={this.toggleWeekHandler.bind(this, 4)}>
-          Week 5
-        </button>
-        <button style={style} onClick={this.toggleWeekHandler.bind(this, 5)}>
-          Week 6
-        </button>
-        {this.createElements()}
+        <div className="buttons">
+          <button onClick={this.toggleWeekHandler.bind(this, 0)}>Week 1</button>
+          <button onClick={this.toggleWeekHandler.bind(this, 1)}>Week 2</button>
+          <button onClick={this.toggleWeekHandler.bind(this, 2)}>Week 3</button>
+          <button onClick={this.toggleWeekHandler.bind(this, 3)}>Week 4</button>
+          <button onClick={this.toggleWeekHandler.bind(this, 4)}>Week 5</button>
+          <button onClick={this.toggleWeekHandler.bind(this, 5)}>Week 6</button>
+        </div>
+        <div className="content">{this.createElements()}</div>
+        <div className="footer">
+          <span id="heart">&#169;</span> because blackboard is an absolute pain
+          in the derrière
+        </div>
       </div>
     );
   }
