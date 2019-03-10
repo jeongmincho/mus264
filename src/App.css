@@ -31,6 +31,17 @@ body {
   display: inline-block;
 }
 
+.lucky {
+  font-size: 6px;
+  margin: 0;
+  padding: 0 0 10px 0;
+}
+
+.luckyTitle {
+  font-size: 7px;
+  text-align: right;
+}
+
 .box {
   height: 30px;
   width: 20vw;

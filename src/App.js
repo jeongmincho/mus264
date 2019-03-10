@@ -9,6 +9,7 @@ ReactGA.pageview(window.location.pathname + window.location.search);
 class App extends Component {
   state = {
     weekFlag: null,
+    lucky: null,
     query: "",
     songs: [
       {
@@ -752,11 +753,25 @@ class App extends Component {
     ]
   };
 
-  createElements = event => {
+  createElements = () => {
     let table = [];
     var flag = this.state.weekFlag;
     var query = this.state.query;
-    this.state.songs.forEach(function(tune) {
+    var lucky = this.state.lucky;
+    this.state.songs.forEach(function(tune, index) {
+      if (flag === null && query === "" && index === lucky) {
+        table.push(
+          <ReactPlayer
+            className="player"
+            width={"100%"}
+            height={50}
+            url={tune.link}
+            onStart
+            controls
+          />
+        );
+        table.push(<p className="luckyTitle">{tune.title}</p>);
+      }
       if (
         query.length > 3 &&
         flag === null &&
@@ -791,18 +806,29 @@ class App extends Component {
     return table;
   };
 
+  toggleLuckyHandler = () => {
+    var max = this.state.songs.length;
+    this.search.value = "";
+    this.setState({
+      query: "",
+      weekFlag: null,
+      lucky: Math.floor(Math.random() * max)
+    });
+  };
+
   toggleWeekHandler = num => {
     var flag = this.state.weekFlag;
-    var query = this.state.query;
     this.search.value = "";
     if (flag === num) {
       this.setState({
         query: "",
+        lucky: null,
         weekFlag: null
       });
     } else {
       this.setState({
         query: "",
+        lucky: null,
         weekFlag: num
       });
     }
@@ -811,6 +837,7 @@ class App extends Component {
   handleInputChange = () => {
     this.setState({
       weekFlag: null,
+      lucky: null,
       query: this.search.value
     });
   };
@@ -834,7 +861,12 @@ class App extends Component {
             onChange={this.handleInputChange}
           />
           <button id="button">
-            <i class="fa fa-search" />
+            <i className="fa fa-search" />
+          </button>
+        </div>
+        <div className="luckyBox">
+          <button className="lucky" onClick={this.toggleLuckyHandler}>
+            I'm feeling lucky today?
           </button>
         </div>
         <div className="content">{this.createElements()}</div>
