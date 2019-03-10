@@ -9,7 +9,7 @@ ReactGA.pageview(window.location.pathname + window.location.search);
 class App extends Component {
   state = {
     weekFlag: null,
-    weekToggles: [false, false, false, false, false, false],
+    query: "",
     songs: [
       {
         title: "Somewhere Over the Rainbow - Judy Garland (1939)",
@@ -755,7 +755,25 @@ class App extends Component {
   createElements = event => {
     let table = [];
     var flag = this.state.weekFlag;
+    var query = this.state.query;
     this.state.songs.forEach(function(tune) {
+      if (
+        query.length > 3 &&
+        flag === null &&
+        tune.title.toLowerCase().includes(query.toLowerCase())
+      ) {
+        table.push(<p>{tune.title}</p>);
+        table.push(
+          <ReactPlayer
+            className="player"
+            width={"100%"}
+            height={50}
+            url={tune.link}
+            onStart
+            controls
+          />
+        );
+      }
       if (flag === tune.week) {
         table.push(<p>{tune.title}</p>);
         table.push(
@@ -775,20 +793,31 @@ class App extends Component {
 
   toggleWeekHandler = num => {
     var flag = this.state.weekFlag;
+    var query = this.state.query;
+    this.search.value = "";
     if (flag === num) {
       this.setState({
+        query: "",
         weekFlag: null
       });
     } else {
       this.setState({
+        query: "",
         weekFlag: num
       });
     }
   };
 
+  handleInputChange = () => {
+    this.setState({
+      weekFlag: null,
+      query: this.search.value
+    });
+  };
+
   render() {
     return (
-      <div>
+      <div className="container">
         <div className="buttons">
           <button onClick={this.toggleWeekHandler.bind(this, 0)}>Week 1</button>
           <button onClick={this.toggleWeekHandler.bind(this, 1)}>Week 2</button>
@@ -796,6 +825,17 @@ class App extends Component {
           <button onClick={this.toggleWeekHandler.bind(this, 3)}>Week 4</button>
           <button onClick={this.toggleWeekHandler.bind(this, 4)}>Week 5</button>
           <button onClick={this.toggleWeekHandler.bind(this, 5)}>Week 6</button>
+        </div>
+        <div className="query">
+          <input
+            type="text"
+            className="box"
+            ref={input => (this.search = input)}
+            onChange={this.handleInputChange}
+          />
+          <button id="button">
+            <i class="fa fa-search" />
+          </button>
         </div>
         <div className="content">{this.createElements()}</div>
         <div className="disclaimer">

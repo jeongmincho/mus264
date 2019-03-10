@@ -14,9 +14,35 @@ body {
   align-items: center;
 }
 
+.container {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
 .buttons {
   margin: 0 auto;
   text-align: center;
+}
+
+.query {
+  align-items: center;
+  display: inline-block;
+}
+
+.box {
+  height: 30px;
+  width: 20vw;
+  font-family: Lato, sans-serif;
+  background: transparent;
+  border: 0;
+  background: #fff;
+  padding: 10px 32px;
+  font-size: 12px;
+  color: #666;
+  border-radius: 34px;
+  margin-left: 10px;
 }
 
 button {
