@@ -1,0 +1,5 @@
+#EXTM3U
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=101487
+https://cfvod.kaltura.com/hls/p/1536481/sp/153648100/serveFlavor/entryId/1_wt3e6u3w/v/1/flavorId/1_8klqznfy/name/a.mp4/index.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=134967
+https://cfvod.kaltura.com/hls/p/1536481/sp/153648100/serveFlavor/entryId/1_wt3e6u3w/v/1/flavorId/1_6r27y9ts/name/a.mp4/index.m3u8
