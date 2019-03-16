@@ -141,6 +141,238 @@ var w6 = [
   "https://cfvod.kaltura.com/hls/p/1536481/sp/153648100/serveFlavor/entryId/1_chozo2hc/v/1/flavorId/1_dfv4svmy/name/a.mp4/index.m3u8"
 ];
 
+var w7 = [
+  "https://cfvod.kaltura.com/hls/p/1536481/sp/153648100/serveFlavor/entryId/1_10o3pwdz/v/1/flavorId/1_x31bybwp/name/a.mp4/index.m3u8",
+  "https://cfvod.kaltura.com/hls/p/1536481/sp/153648100/serveFlavor/entryId/1_mozkkb1k/v/1/flavorId/1_zmzjgwdl/name/a.mp4/index.m3u8",
+  "https://cfvod.kaltura.com/hls/p/1536481/sp/153648100/serveFlavor/entryId/1_d5wfeitv/v/1/flavorId/1_gqhwe9z5/name/a.mp4/index.m3u8",
+  "https://cfvod.kaltura.com/hls/p/1536481/sp/153648100/serveFlavor/entryId/1_cb3uo2nd/v/1/flavorId/1_7jw9m85v/name/a.mp4/index.m3u8",
+  "https://cfvod.kaltura.com/hls/p/1536481/sp/153648100/serveFlavor/entryId/1_v60b4jkp/v/1/flavorId/1_aoprpgwt/name/a.mp4/index.m3u8",
+  "https://cfvod.kaltura.com/hls/p/1536481/sp/153648100/serveFlavor/entryId/1_7g11qvbv/v/1/flavorId/1_cz35m2l0/name/a.mp4/index.m3u8",
+  "https://cfvod.kaltura.com/hls/p/1536481/sp/153648100/serveFlavor/entryId/1_7hpjy344/v/1/flavorId/1_revgk92p/name/a.mp4/index.m3u8",
+  "https://cfvod.kaltura.com/hls/p/1536481/sp/153648100/serveFlavor/entryId/1_tac1gw3k/v/1/flavorId/1_w8lltcu1/name/a.mp4/index.m3u8",
+  "https://cfvod.kaltura.com/hls/p/1536481/sp/153648100/serveFlavor/entryId/1_nnc0k9gs/v/1/flavorId/1_nlacysxf/name/a.mp4/index.m3u8",
+  "https://cfvod.kaltura.com/hls/p/1536481/sp/153648100/serveFlavor/entryId/1_3418d2tt/v/1/flavorId/1_9jr211qq/name/a.mp4/index.m3u8",
+  "https://cfvod.kaltura.com/hls/p/1536481/sp/153648100/serveFlavor/entryId/1_xt0z7jzs/v/1/flavorId/1_x487oxnm/name/a.mp4/index.m3u8",
+  "https://cfvod.kaltura.com/hls/p/1536481/sp/153648100/serveFlavor/entryId/1_f5v9bnse/v/1/flavorId/1_6g8kczqd/name/a.mp4/index.m3u8",
+  "https://www.youtube.com/watch?v=5yhuIs08TUE",
+  "https://cfvod.kaltura.com/hls/p/1536481/sp/153648100/serveFlavor/entryId/1_29fuzu8d/v/1/flavorId/1_nzuxlkh7/name/a.mp4/index.m3u8",
+  "https://cfvod.kaltura.com/hls/p/1536481/sp/153648100/serveFlavor/entryId/1_lawczgj1/v/1/flavorId/1_lvlu922q/name/a.mp4/index.m3u8",
+  "https://cfvod.kaltura.com/hls/p/1536481/sp/153648100/serveFlavor/entryId/1_ljgkolyz/v/1/flavorId/1_npclms7p/name/a.mp4/index.m3u8",
+  "https://cfvod.kaltura.com/hls/p/1536481/sp/153648100/serveFlavor/entryId/1_d13gzstc/v/1/flavorId/1_trwrr82f/name/a.mp4/index.m3u8",
+  "https://cfvod.kaltura.com/hls/p/1536481/sp/153648100/serveFlavor/entryId/1_hte3za40/v/1/flavorId/1_6fmjswl6/name/a.mp4/index.m3u8",
+  "https://cfvod.kaltura.com/hls/p/1536481/sp/153648100/serveFlavor/entryId/1_15llcyue/v/1/flavorId/1_b5g5zo36/name/a.mp4/index.m3u8",
+  "https://cfvod.kaltura.com/hls/p/1536481/sp/153648100/serveFlavor/entryId/1_l3c1lfrv/v/1/flavorId/1_c0g9lywu/name/a.mp4/index.m3u8",
+  "https://cfvod.kaltura.com/hls/p/1536481/sp/153648100/serveFlavor/entryId/1_m4e9jrbc/v/1/flavorId/1_lscn83op/name/a.mp4/index.m3u8"
+];
+
+var w8 = [
+  "https://cfvod.kaltura.com/hls/p/1536481/sp/153648100/serveFlavor/entryId/1_ldhvbzb4/v/1/flavorId/1_qrotlwx7/name/a.mp4/index.m3u8",
+  "https://cfvod.kaltura.com/hls/p/1536481/sp/153648100/serveFlavor/entryId/1_kyxw75g6/v/1/flavorId/1_pnibb33j/name/a.mp4/index.m3u8",
+  "https://cfvod.kaltura.com/hls/p/1536481/sp/153648100/serveFlavor/entryId/1_qn19g56x/v/1/ev/3/flavorId/1_vd1hjcwg/name/a.mp4/index.m3u8",
+  "https://cfvod.kaltura.com/hls/p/1536481/sp/153648100/serveFlavor/entryId/1_qw42r7bh/v/1/flavorId/1_fan3tqko/name/a.mp4/index.m3u8",
+  "https://cfvod.kaltura.com/hls/p/1536481/sp/153648100/serveFlavor/entryId/1_4i8rth3w/v/1/flavorId/1_i0gng6sw/name/a.mp4/index.m3u8",
+  "https://cfvod.kaltura.com/hls/p/1536481/sp/153648100/serveFlavor/entryId/1_xi5rxwvp/v/1/flavorId/1_59nxob7e/name/a.mp4/index.m3u8",
+  "https://cfvod.kaltura.com/hls/p/1536481/sp/153648100/serveFlavor/entryId/1_y8rogyi8/v/1/flavorId/1_ou91qbl9/name/a.mp4/index.m3u8",
+  "https://cfvod.kaltura.com/hls/p/1536481/sp/153648100/serveFlavor/entryId/1_02xoy8q3/v/1/flavorId/1_bkkpwd2f/name/a.mp4/index.m3u8",
+  "https://cfvod.kaltura.com/hls/p/1536481/sp/153648100/serveFlavor/entryId/1_z48baj8m/v/1/flavorId/1_us1j4msm/name/a.mp4/index.m3u8",
+  "https://cfvod.kaltura.com/hls/p/1536481/sp/153648100/serveFlavor/entryId/1_ntxx4quo/v/1/flavorId/1_wue3vrz1/name/a.mp4/index.m3u8",
+  "https://cfvod.kaltura.com/hls/p/1536481/sp/153648100/serveFlavor/entryId/1_00eos698/v/1/flavorId/1_x5cyed3j/name/a.mp4/index.m3u8",
+  "https://cfvod.kaltura.com/hls/p/1536481/sp/153648100/serveFlavor/entryId/1_e8agj0yw/v/1/flavorId/1_42utlcys/name/a.mp4/index.m3u8",
+  "https://cfvod.kaltura.com/hls/p/1536481/sp/153648100/serveFlavor/entryId/1_po7h7dx7/v/1/flavorId/1_wdcyjgfz/name/a.mp4/index.m3u8",
+  "https://cfvod.kaltura.com/hls/p/1536481/sp/153648100/serveFlavor/entryId/1_h4vtjr7q/v/1/flavorId/1_5ap4b9ja/name/a.mp4/index.m3u8",
+  "https://cfvod.kaltura.com/hls/p/1536481/sp/153648100/serveFlavor/entryId/1_mzs8fuh3/v/1/flavorId/1_0yrpau0g/name/a.mp4/index.m3u8",
+  "https://cfvod.kaltura.com/hls/p/1536481/sp/153648100/serveFlavor/entryId/1_fthttcew/v/1/flavorId/1_lovoreml/name/a.mp4/index.m3u8",
+  "https://cfvod.kaltura.com/hls/p/1536481/sp/153648100/serveFlavor/entryId/1_xx4j7b2g/v/1/flavorId/1_g1mhl71u/name/a.mp4/index.m3u8",
+  "https://cfvod.kaltura.com/hls/p/1536481/sp/153648100/serveFlavor/entryId/1_3m6vd5oo/v/1/flavorId/1_9r78sf03/name/a.mp4/index.m3u8",
+  "https://cfvod.kaltura.com/hls/p/1536481/sp/153648100/serveFlavor/entryId/1_umuxix34/v/1/flavorId/1_rep8i7zv/name/a.mp4/index.m3u8",
+  "https://cfvod.kaltura.com/hls/p/1536481/sp/153648100/serveFlavor/entryId/1_2u29w5m7/v/1/flavorId/1_06zv2w05/name/a.mp4/index.m3u8"
+];
+
+var w1_t = [
+  "Somewhere Over the Rainbow - Judy Garland (1939)",
+  "All or Nothing at All - Frank Sinatra (1940; 1943)",
+  "I'm Sitting on Top of the World - Les Paul, guitar; Mary Ford, vocals. (March 1953)",
+  "How Much is That Doggie in the Window - Patti Page, vocals (March 1953)",
+  "Secret Love - Doris Day (March 1954)",
+  "April Love - Pat Boone (October 1957)",
+  "Future Blues - Willie Brown, vocals, guitar (1930)",
+  "Cross Road Blues - Robert Johnson (November 1936)",
+  "In the Mood - Glenn Miller and his Orchestra (1939)",
+  "BeBop - Dizzy Gillespie Quintet ; Charlie Parker, alto sax",
+  "Caldonia - Louis Jordan and His Tympany Five (January 1945)",
+  "Choo Choo Ch'Boogie - Louis Jordan and His Tympany Five (January 1945)",
+  "Good Rockin' Tonight - Wynonie Harris (December 1947)",
+  "The Fat Man - Fats Domino, vocals, piano (1949)"
+];
+
+var w2_t = [
+  "Can the Circle Be Unbroken - Carter Family (August 1935)",
+  "Blueberry Hill - Gene Autry (August 1940)",
+  "Blueberry Hill - Fats Domino (September 1956)",
+  "Faded Love - Bob Wills & His Texas Playboys (April 1946)",
+  "Tennessee Waltz - Pee Wee King & His Golden West Cowboys (February 1948)",
+  "Tennessee Waltz - Patti Page (November 1950)",
+  "Hey Good Lookin' - Hank Williams (June 1951)",
+  "Cold, Cold Heart - Hank Williams (1951)",
+  "Your Cheatin' Heart - Hank Williams (September 1952)",
+  "Rocket '88 - Jackie Brenston With His Delta Cats (April 1951)",
+  "Rocket '88 and interview - Bill Haley and The Saddlemen (July 1951)",
+  "We're Gonna Rock This Joint Jimmy Preston (1949)",
+  "Rock the Joint - Bill Haley and The Saddlemen (April 1952)",
+  "Shake, Rattle, and Roll - Joe Turner & His Blues Kings (April 1954)",
+  "Shake, Rattle and Roll - Bill Haley and His Comets (June, 1954)",
+  "Rock Around the Clock (excerpt) - Sunny Dae and his Knights (1953)",
+  "Rock Around the Clock - Bill Haley and His Comets (May 1954)",
+  "Dim, Dim the Lights - Bill Haley and His Comets (1955)",
+  "Later Alligator - Bobby Charles (November 1955)",
+  "See You Later, Alligator - Bill Haley and His Comets (1954)"
+];
+
+var w3_t = [
+  'That\'s All Right - Arthur "Big Boy" Crudup (September 1946)',
+  "That's All Right - Elvis Presley (June 1954)",
+  "Blue Moon of Kentucky - Bill Monroe & His Blue Grass Boys (September 1947)",
+  "Blue Moon of Kentucky - Elvis Presley (July 1954)",
+  'Hound Dog - Willie Mae "Big Mama" Thornton (March 1953)',
+  'Bear Cat (The Answer to Hound Dog) - Rufus "Hound Dog" Thomas Jr. (March 1953)',
+  "Hound Dog - Elvis Presley (July 1956)",
+  "Blue Suede Shoes - Carl Perkins (December 1955)",
+  "Blue Suede Shoes - Elvis Presley (August 1956)",
+  "Honey, Don't! - Carl Perkins (December 1955)",
+  "Heartbreak Hotel - Elvis Presley (January 1956)",
+  "All I Have to do is Dream - Everly Brothers (April 1958)",
+  "Be-bop-a-lua - Gene Vincent & His Blue Caps (June 1956)",
+  "Only the Lonely - Roy Orbison (March 1960)"
+];
+
+var w4_t = [
+  "Bo Diddley - Bo Diddley (March 1955)",
+  "Tutti Frutti - Little Richard (December 1955)",
+  "Tutti Frutti - Pat Boone (January 1956)",
+  "Ain't That A Shame - Fats Domino (April 1955)",
+  "Ain't That A Shame - Pat Boone (July 1955)",
+  "Whole Lotta Shakin' Goin' On - Jerry Lee Lewis (March 1957)",
+  "Not Fade Away - Buddy Holly (October 1957)",
+  "Not Fade Away - The Rolling Stones (May 1964)",
+  "That'll Be The Day - Buddy Holly and the Crickets (May 1957)",
+  "That'll Be The Day - The Quarry Men (1958)",
+  "Great Balls of Fire - Jerry Lee Lewis, vocals, piano (November 1957)",
+  "Johnny B. Goode - Chuck Berry (April 1958)",
+  "Johnny B. Goode - The Beatles (January 1964)",
+  "Carol - Chuck Berry (May 1958)",
+  "Carol - The Rolling Stones (May 1964)",
+  "It's Too Soon To Know - The Orioles (July 1948)",
+  "Gee - The Crows (June 1953)",
+  "Sh-Boom - The Chords (April 1954)",
+  "Sh-Boom - The Crew-Cuts (July 1954)",
+  "Earth Angel (Will You Be Mine) - The Penguins (September 1954)",
+  "Mr. Sandman - The Four Acres (December 1954)",
+  "Mr. Sandman - The Chordettes (December 1954)",
+  "The Great Pretender - The Platters (November 1955)",
+  "Little Star - The Elegants (June 1958)",
+  "Hushabye - The Mystics (April 1959)",
+  "Hushabye - The Beach Boys (July 1964)",
+  "Big Girls Don't Cry -The Four Seasons (October 1962)"
+];
+
+var w5_t = [
+  "Diana - Paul Anka (August 1954)",
+  "Dream Lover - Bobby Darin (March 1959)",
+  "The Twist - Chubby Checker (June 1960)",
+  "Miserlou - Dick Dale and The Del-Tones (September 1962)",
+  "Miserlou - The Beach Boys (March 1963)",
+  "Surfer Girl (vocal track) The Beach Boys (June 12, 1963)",
+  "Surfer Girl (backing track) - (August 1968)",
+  "Surfer Girl (released version) - The Beach Boys (June 1963)",
+  "Sweet Little Sixteen - Chuck Berry, guitar, vocals (February 1958)",
+  "Surfin' USA - The Beach Boys (March 1963)",
+  "Graduation Day - The Four Freshmen (April 1956)",
+  "Graduation Day - The Beach Boys (Live 1964)",
+  "Fun, Fun. Fun - The Beach Boys (February 1964)",
+  "Down in Mexico - The Coasters (1956)",
+  "Da Doo Ron Ron - The Crystals (March 1963)",
+  "Be My Baby - The Ronnettes (July 1963)",
+  "Then He Kissed Me - The Crystals (July 1963)",
+  "Then I Kissed Her - The Beach Boys (June 1965)",
+  "You've Lost That Lovin' Feeling - The Righteous Brothers (August-November 1964)",
+  "California Girls - Beach Boys (July 1965)",
+  "River Deep- Mountain High - Ike and Tina Turner (March 1966)",
+  "God Only Knows (backing track) - The Beach Boys (1966)",
+  "God Only Knows (vocal track) The Beach Boys (1966)",
+  "God Only Knows - The Beach Boys (July 1966)",
+  "The Long and Winding Road (original track) - Beatles (recorded January 31, 1969)",
+  "The Long and Winding Road - Beatles (May 1970)"
+];
+
+var w6_t = [
+  "I got a woman - Ray Charles (November 1954)",
+  "There goes my Baby - The Drifters (1959)",
+  "Wonderful World - Sam Cooke (April 1960)",
+  "Papa’s Got A Brand New Bag",
+  "In the Midnight Hour - Wilson Pickett (May 1965)",
+  "Respect - Otis Redding (August 1965)",
+  "Respect - Aretha Franklin (February 1967)",
+  "People get ready - The Impressions (1965)",
+  "Say It Loud- I'm Black and I'm Proud - James Brown (August 1968)",
+  "Please Mr. Postman - The Marvelettes (August 1961)",
+  "Please Mr. Postman - Beatles (November 1963)",
+  "The Way You do the Things You do - The Temptations (January 1964)",
+  "Dancing in the Street - Martha Reeves and the Vandellas (August 1964)",
+  "Baby Love - The Supremes (September 1964)",
+  "Ain't to Proud to Beg - The Temptations (May 1966)",
+  "What Becomes of the Brokenhearted - Jimmy Ruffin (September 1966)",
+  "Reach Out, I'll Be There - The Four Tops (October 1966)",
+  "I Heard It Through The Grapevine - Marvin Gaye (November 1968)",
+  "Tears of A Clown - Smokey Robinson and The Bandits (October 1970)"
+];
+
+var w7_t = [
+  "Love Me Do - The Beatles (June, 1962)",
+  "From Me to You - The Beatles (April, 1963)",
+  "Please Please Me - The Beatles (March, 1963)",
+  "She loves you The Beatles (August, 1963)",
+  "I Want To Hold Your Hand - The Beatles (November, 1963)",
+  "Twist and Shout - The Isley Brothers (June, 1962)",
+  "Twist and Shout - The Beatles (March 1963)	",
+  "You've Got To Hide Your Love Away - The Beatles (August, 1965)",
+  "Yesterday - The Beatles (August, 1965)",
+  "Good Night Irene - Leadbelly (1943)",
+  "Goodnight Irene - The Weavers (June 1950)",
+  "Pete Seeger, “Wasn’t That a Time?” (1957)",
+  "This land is your land - Woody Guthrie (1945)",
+  "Tom Dooley - G. B. Grayson and Henry Whitter (1929)",
+  "Tom Dooley - Kingston Trio (1958)",
+  "Blowin' in the Wind - Bob Dylan (May 1963)",
+  "Blowin' In The Wind - Peter, Paul and Mary (1963)",
+  "The Times They Are A-Changin' - Bob Dylan (January 1964)",
+  "The Times They Are A-Changin - The Byrds (1966)",
+  "If I Were A Carpenter - Tim Hardin (Woodstock, 1969)",
+  "If You Were A Carpenter - Joan Baez (1967)"
+];
+
+var w8_t = [
+  "Subterranean Homesick Blues - Bob Dylan (March 1965)",
+  "Mr. Tambourine Man - Bob Dylan (March 1965)",
+  "Mr. Tambourine Man - The Byrds (April 1965)",
+  "Like A Rolling Stone - Bob Dylan (August 1965)",
+  "Positively 4th Street - Bob Dylan (September 1965)",
+  "The Sound of Silence - Simon and Garfunkel (October 1964)",
+  "The Sounds of Silence - Simon and Garfunkel (December 1965)",
+  "I'm A Man - The Yardbirds (October, 1965)",
+  "All Along the Watchtower - Bob Dylan (December 1967)",
+  "All Along the Watchtower - Jimi Hendrix (February 1968)",
+  "Hoochie Coochie (I’m Your Hoochie Coochie Man) - Muddy Waters (January 1954)",
+  "I Just Want To Make Love To You - Muddy Waters (April 1954)",
+  "I Just Want To Make Love To You - The Rolling Stones (May 1964)",
+  "It's All Over Now - The Valentinos (rec. March, released June, 1964)",
+  "It's all Over Now - Rolling Stones (July 1964)",
+  "House of the Rising Sun - Eric Burton and the Animals (June 1964)",
+  "I'm A Man - Bo Diddley (March 1955)",
+  "(I Can't Get No) Satisfaction - Rolling Stones (May 1965)",
+  "Sympathy for the Devil - The Rolling Stones (November 1968)",
+  "Sunshine of Your Love - Cream (November 1967)"
+];
+
 ReactGA.initialize("UA-135966055-1");
 ReactGA.pageview(window.location.pathname + window.location.search);
 
@@ -151,627 +383,812 @@ class App extends Component {
     query: "",
     songs: [
       {
-        title: "Somewhere Over the Rainbow - Judy Garland (1939)",
+        title: w1_t[0],
         link: w1[0],
         week: 0
       },
       {
-        title: "All or Nothing at All - Frank Sinatra (1940; 1943)",
+        title: w1_t[1],
         link: w1[1],
         week: 0
       },
       {
-        title:
-          "I'm Sitting on Top of the World - Les Paul, guitar; Mary Ford, vocals. (March 1953)",
+        title: w1_t[2],
         link: w1[2],
         week: 0
       },
       {
-        title:
-          "How Much is That Doggie in the Window - Patti Page, vocals (March 1953)",
+        title: w1_t[3],
         link: w1[3],
         week: 0
       },
       {
-        title: "Secret Love - Doris Day (March 1954)",
+        title: w1_t[4],
         link: w1[4],
         week: 0
       },
       {
-        title: "April Love - Pat Boone (October 1957)",
+        title: w1_t[5],
         link: w1[5],
         week: 0
       },
       {
-        title: "Future Blues - Willie Brown, vocals, guitar (1930)",
+        title: w1_t[6],
         link: w1[6],
         week: 0
       },
       {
-        title: "Cross Road Blues - Robert Johnson (November 1936)",
+        title: w1_t[7],
         link: w1[7],
         week: 0
       },
       {
-        title: "In the Mood - Glenn Miller and his Orchestra (1939)",
+        title: w1_t[8],
         link: w1[8],
         week: 0
       },
       {
-        title: "BeBop - Dizzy Gillespie Quintet ; Charlie Parker, alto sax",
+        title: w1_t[9],
         link: w1[9],
         week: 0
       },
       {
-        title: "Caldonia - Louis Jordan and His Tympany Five (January 1945)",
+        title: w1_t[10],
         link: w1[10],
         week: 0
       },
       {
-        title:
-          "Choo Choo Ch'Boogie - Louis Jordan and His Tympany Five (January 1945)",
+        title: w1_t[11],
         link: w1[11],
         week: 0
       },
       {
-        title: "Good Rockin' Tonight - Wynonie Harris (December 1947)",
+        title: w1_t[12],
         link: w1[12],
         week: 0
       },
       {
-        title: "The Fat Man - Fats Domino, vocals, piano (1949)",
+        title: w1_t[13],
         link: w1[13],
         week: 0
       },
 
       {
-        title: "Can the Circle Be Unbroken - Carter Family (August 1935)",
+        title: w2_t[0],
         link: w2[0],
         week: 1
       },
       {
-        title: "Blueberry Hill - Gene Autry (August 1940)",
+        title: w2_t[1],
         link: w2[1],
         week: 1
       },
       {
-        title: "Blueberry Hill - Fats Domino (September 1956)",
+        title: w2_t[2],
         link: w2[2],
         week: 1
       },
       {
-        title: "Faded Love - Bob Wills & His Texas Playboys (April 1946)",
+        title: w2_t[3],
         link: w2[3],
         week: 1
       },
       {
-        title:
-          "Tennessee Waltz - Pee Wee King & His Golden West Cowboys (February 1948)",
+        title: w2_t[4],
         link: w2[4],
         week: 1
       },
       {
-        title: "Tennessee Waltz - Patti Page (November 1950)",
+        title: w2_t[5],
         link: w2[5],
         week: 1
       },
       {
-        title: "Hey Good Lookin' - Hank Williams (June 1951)",
+        title: w2_t[6],
         link: w2[6],
         week: 1
       },
       {
-        title: "Cold, Cold Heart - Hank Williams (1951)",
+        title: w2_t[7],
         link: w2[7],
         week: 1
       },
       {
-        title: "Your Cheatin' Heart - Hank Williams (September 1952)",
+        title: w2_t[8],
         link: w2[8],
         week: 1
       },
       {
-        title: "Rocket '88 - Jackie Brenston With His Delta Cats (April 1951)",
+        title: w2_t[9],
         link: w2[9],
         week: 1
       },
       {
-        title:
-          "Rocket '88 and interview - Bill Haley and The Saddlemen (July 1951)",
+        title: w2_t[10],
         link: w2[10],
         week: 1
       },
       {
-        title: "We're Gonna Rock This Joint Jimmy Preston (1949)",
+        title: w2_t[11],
         link: w2[11],
         week: 1
       },
       {
-        title: "Rock the Joint - Bill Haley and The Saddlemen (April 1952)",
+        title: w2_t[12],
         link: w2[12],
         week: 1
       },
       {
-        title:
-          "Shake, Rattle, and Roll - Joe Turner & His Blues Kings (April 1954)",
+        title: w2_t[13],
         link: w2[13],
         week: 1
       },
       {
-        title:
-          "Shake, Rattle and Roll - Bill Haley and His Comets (June, 1954)",
+        title: w2_t[14],
         link: w2[14],
         week: 1
       },
       {
-        title:
-          "Rock Around the Clock (excerpt) - Sunny Dae and his Knights (1953)",
+        title: w2_t[15],
         link: w2[15],
         week: 1
       },
       {
-        title: "Rock Around the Clock - Bill Haley and His Comets (May 1954)",
+        title: w2_t[16],
         link: w2[16],
         week: 1
       },
       {
-        title: "Dim, Dim the Lights - Bill Haley and His Comets (1955)",
+        title: w2_t[17],
         link: w2[17],
         week: 1
       },
       {
-        title: "Later Alligator - Bobby Charles (November 1955)",
+        title: w2_t[18],
         link: w2[18],
         week: 1
       },
       {
-        title: "See You Later, Alligator - Bill Haley and His Comets (1954)",
+        title: w2_t[19],
         link: w2[19],
         week: 1
       },
 
       {
-        title: "All I Have to do is Dream - Everly Brothers (April 1958)",
+        title: w3_t[0],
         link: w3[0],
         week: 2
       },
       {
-        title: 'That\'s All Right - Arthur "Big Boy" Crudup (September 1946)',
+        title: w3_t[1],
         link: w3[1],
         week: 2
       },
       {
-        title: "That's All Right - Elvis Presley (June 1954)",
+        title: w3_t[2],
         link: w3[2],
         week: 2
       },
       {
-        title:
-          "Blue Moon of Kentucky - Bill Monroe & His Blue Grass Boys (September 1947)",
+        title: w3_t[3],
         link: w3[3],
         week: 2
       },
       {
-        title: 'Hound Dog - Willie Mae "Big Mama" Thornton (March 1953)',
+        title: w3_t[4],
         link: w3[4],
         week: 2
       },
       {
-        title:
-          'Bear Cat (The Answer to Hound Dog) - Rufus "Hound Dog" Thomas Jr. (March 1953)',
+        title: w3_t[5],
         link: w3[5],
         week: 2
       },
       {
-        title: "Hound Dog - Elvis Presley (July 1956)",
+        title: w3_t[6],
         link: w3[6],
         week: 2
       },
       {
-        title: "Blue Suede Shoes - Carl Perkins (December 1955)",
+        title: w3_t[7],
         link: w3[7],
         week: 2
       },
       {
-        title: "Blue Suede Shoes - Elvis Presley (August 1956)",
+        title: w3_t[8],
         link: w3[8],
         week: 2
       },
       {
-        title: "Blue Moon of Kentucky - Elvis Presley (July 1954)",
+        title: w3_t[9],
         link: w3[9],
         week: 2
       },
       {
-        title: "Honey, Don't! - Carl Perkins (December 1955)",
+        title: w3_t[10],
         link: w3[10],
         week: 2
       },
       {
-        title: "Heartbreak Hotel - Elvis Presley (January 1956)",
+        title: w3_t[11],
         link: w3[11],
         week: 2
       },
       {
-        title: "Be-bop-a-lua - Gene Vincent & His Blue Caps (June 1956)",
+        title: w3_t[12],
         link: w3[12],
         week: 2
       },
       {
-        title: "Only the Lonely - Roy Orbison (March 1960)",
+        title: w3_t[13],
         link: w3[13],
         week: 2
       },
       {
-        title: "Bo Diddley - Bo Diddley (March 1955)",
+        title: w3_t[14],
         link: w3[14],
         week: 2
       },
       {
-        title: "Tutti Frutti - Little Richard (December 1955)",
+        title: w3_t[15],
         link: w3[15],
         week: 2
       },
       {
-        title: "Tutti Frutti - Pat Boone (January 1956)",
+        title: w3_t[16],
         link: w3[16],
         week: 2
       },
       {
-        title: "Ain't That A Shame - Fats Domino (April 1955)",
+        title: w3_t[17],
         link: w3[17],
         week: 2
       },
       {
-        title: "Ain't That A Shame - Pat Boone (July 1955)",
+        title: w3_t[18],
         link: w3[18],
         week: 2
       },
       {
-        title: "Whole Lotta Shakin' Goin' On - Jerry Lee Lewis (March 1957)",
+        title: w3_t[19],
         link: w3[19],
         week: 2
       },
       {
-        title: "Not Fade Away - Buddy Holly (October 1957)",
+        title: w3_t[20],
         link: w3[20],
         week: 2
       },
       {
-        title: "Not Fade Away - The Rolling Stones (May 1964)",
+        title: w3_t[21],
         link: w3[21],
         week: 2
       },
       {
-        title: "That'll Be The Day - Buddy Holly and the Crickets (May 1957)",
+        title: w3_t[22],
         link: w3[22],
         week: 2
       },
       {
-        title: "That'll Be The Day - The Quarry Men (1958)",
+        title: w3_t[23],
         link: w3[23],
         week: 2
       },
       {
-        title:
-          "Great Balls of Fire - Jerry Lee Lewis, vocals, piano (November 1957)",
+        title: w3_t[24],
         link: w3[24],
         week: 2
       },
       {
-        title: "Johnny B. Goode - Chuck Berry (April 1958)",
+        title: w3_t[25],
         link: w3[25],
         week: 2
       },
       {
-        title: "Johnny B. Goode - The Beatles (January 1964)",
+        title: w3_t[26],
         link: w3[26],
         week: 2
       },
       {
-        title: "Carol - Chuck Berry (May 1958)",
+        title: w3_t[27],
         link: w3[27],
         week: 2
       },
       {
-        title: "Carol - The Rolling Stones (May 1964)",
+        title: w3_t[28],
         link: w3[28],
         week: 2
       },
       {
-        title: "It's Too Soon To Know - The Orioles (July 1948)",
+        title: w4_t[0],
         link: w4[0],
         week: 3
       },
       {
-        title: "Gee - The Crows (June 1953)",
+        title: w4_t[1],
         link: w4[1],
         week: 3
       },
       {
-        title: "Sh-Boom - The Chords (April 1954)",
+        title: w4_t[2],
         link: w4[2],
         week: 3
       },
       {
-        title: "Sh-Boom - The Crew-Cuts (July 1954)",
+        title: w4_t[3],
         link: w4[3],
         week: 3
       },
       {
-        title: "Earth Angel (Will You Be Mine) - The Penguins (September 1954)",
+        title: w4_t[4],
         link: w4[4],
         week: 3
       },
       {
-        title: "Mr. Sandman - The Four Acres (December 1954)",
+        title: w4_t[5],
         link: w4[5],
         week: 3
       },
       {
-        title: "Mr. Sandman - The Chordettes (December 1954)",
+        title: w4_t[6],
         link: w4[6],
         week: 3
       },
       {
-        title: "The Great Pretender - The Platters (November 1955)",
+        title: w4_t[7],
         link: w4[7],
         week: 3
       },
       {
-        title: "Little Star - The Elegants (June 1958)",
+        title: w4_t[8],
         link: w4[8],
         week: 3
       },
       {
-        title: "Hushabye - The Mystics (April 1959)",
+        title: w4_t[9],
         link: w4[9],
         week: 3
       },
       {
-        title: "Hushabye - The Beach Boys (July 1964)",
+        title: w4_t[10],
         link: w4[10],
         week: 3
       },
       {
-        title: "Big Girls Don't Cry -The Four Seasons (October 1962)",
+        title: w4_t[11],
         link: w4[11],
         week: 3
       },
       {
-        title: "Diana - Paul Anka (August 1954)",
+        title: w4_t[12],
         link: w4[12],
         week: 3
       },
       {
-        title: "Dream Lover - Bobby Darin (March 1959)",
+        title: w4_t[13],
         link: w4[13],
         week: 3
       },
       {
-        title: "The Twist - Chubby Checker (June 1960)",
+        title: w4_t[14],
         link: w4[14],
         week: 3
       },
       {
-        title: "Miserlou - Dick Dale and The Del-Tones (September 1962)",
+        title: w4_t[15],
         link: w4[15],
         week: 3
       },
       {
-        title: "Miserlou - The Beach Boys (March 1963)",
+        title: w4_t[16],
         link: w4[16],
         week: 3
       },
       {
-        title: "Surfer Girl (vocal track) The Beach Boys (June 12, 1963)",
+        title: w4_t[17],
         link: w4[17],
         week: 3
       },
       {
-        title: "Surfer Girl (backing track) - (August 1968)",
+        title: w4_t[18],
         link: w4[18],
         week: 3
       },
       {
-        title: "Surfer Girl (released version) - The Beach Boys (June 1963)",
+        title: w4_t[19],
         link: w4[19],
         week: 3
       },
       {
-        title:
-          "Sweet Little Sixteen - Chuck Berry, guitar, vocals (February 1958)",
+        title: w4_t[20],
         link: w4[20],
         week: 3
       },
       {
-        title: "Surfin' USA - The Beach Boys (March 1963)",
+        title: w4_t[21],
         link: w4[21],
         week: 3
       },
       {
-        title: "Graduation Day - The Four Freshmen (April 1956)",
+        title: w4_t[22],
         link: w4[22],
         week: 3
       },
       {
-        title: "Graduation Day - The Beach Boys (Live 1964)",
+        title: w4_t[23],
         link: w4[23],
         week: 3
       },
       {
-        title: "Fun, Fun. Fun - The Beach Boys (February 1964)",
+        title: w4_t[24],
         link: w4[24],
         week: 3
       },
 
       {
-        title: "Down in Mexico - The Coasters (1956)",
+        title: w5_t[0],
         link: w5[0],
         week: 4
       },
       {
-        title: "Da Doo Ron Ron - The Crystals (March 1963)",
+        title: w5_t[1],
         link: w5[1],
         week: 4
       },
       {
-        title: "Be My Baby - The Ronnettes (July 1963)",
+        title: w5_t[2],
         link: w5[2],
         week: 4
       },
       {
-        title: "Then He Kissed Me - The Crystals (July 1963)",
+        title: w5_t[3],
         link: w5[3],
         week: 4
       },
       {
-        title: "Then I Kissed Her - The Beach Boys (June 1965)",
+        title: w5_t[4],
         link: w5[4],
         week: 4
       },
       {
-        title:
-          "You've Lost That Lovin' Feeling - The Righteous Brothers (August-November 1964)",
+        title: w5_t[5],
         link: w5[5],
         week: 4
       },
       {
-        title: "California Girls - Beach Boys (July 1965)",
+        title: w5_t[6],
         link: w5[6],
         week: 4
       },
       {
-        title: "River Deep- Mountain High - Ike and Tina Turner (March 1966)",
+        title: w5_t[7],
         link: w5[7],
         week: 4
       },
       {
-        title: "God Only Knows (backing track) - The Beach Boys (1966)",
+        title: w5_t[8],
         link: w5[8],
         week: 4
       },
       {
-        title: "God Only Knows (vocal track) The Beach Boys (1966)",
+        title: w5_t[9],
         link: w5[9],
         week: 4
       },
       {
-        title: "God Only Knows - The Beach Boys (July 1966)",
+        title: w5_t[10],
         link: w5[10],
         week: 4
       },
       {
-        title:
-          "The Long and Winding Road (original track) - Beatles (recorded January 31, 1969)",
+        title: w5_t[11],
         link: w5[11],
         week: 4
       },
       {
-        title: "The Long and Winding Road - Beatles (May 1970)",
+        title: w5_t[12],
         link: w5[12],
         week: 4
       },
       {
-        title: "I got a woman - Ray Charles (November 1954)",
+        title: w5_t[13],
         link: w5[13],
         week: 4
       },
       {
-        title: "There goes my Baby - The Drifters (1959)",
+        title: w5_t[14],
         link: w5[14],
         week: 4
       },
       {
-        title: "Wonderful World - Sam Cooke (April 1960)",
+        title: w5_t[15],
         link: w5[15],
         week: 4
       },
       {
-        title: "Papa’s Got A Brand New Bag",
+        title: w5_t[16],
         link: w5[16],
         week: 4
       },
       {
-        title: "In the Midnight Hour - Wilson Pickett (May 1965)",
+        title: w5_t[17],
         link: w5[17],
         week: 4
       },
       {
-        title: "Respect - Otis Redding (August 1965)",
+        title: w5_t[18],
         link: w5[18],
         week: 4
       },
       {
-        title: "Respect - Aretha Franklin (February 1967)",
+        title: w5_t[19],
         link: w5[19],
         week: 4
       },
       {
-        title: "People get ready - The Impressions (1965)",
+        title: w5_t[20],
         link: w5[20],
         week: 4
       },
       {
-        title:
-          "Say It Loud- I'm Black and I'm Proud - James Brown (August 1968)",
+        title: w5_t[21],
         link: w5[21],
         week: 4
       },
 
       {
-        title: "Please Mr. Postman - The Marvelettes (August 1961)",
+        title: w6_t[0],
         link: w6[0],
         week: 5
       },
       {
-        title: "Please Mr. Postman - Beatles (November 1963)",
+        title: w6_t[1],
         link: w6[1],
         week: 5
       },
       {
-        title:
-          "The Way You do the Things You do - The Temptations (January 1964)",
+        title: w6_t[2],
         link: w6[2],
         week: 5
       },
       {
-        title:
-          "Dancing in the Street - Martha Reeves and the Vandellas (August 1964)",
+        title: w6_t[3],
         link: w6[3],
         week: 5
       },
       {
-        title: "Baby Love - The Supremes (September 1964)",
+        title: w6_t[4],
         link: w6[4],
         week: 5
       },
       {
-        title: "Ain't to Proud to Beg - The Temptations (May 1966)",
+        title: w6_t[5],
         link: w6[5],
         week: 5
       },
       {
-        title:
-          "What Becomes of the Brokenhearted - Jimmy Ruffin (September 1966)",
+        title: w6_t[6],
         link: w6[6],
         week: 5
       },
       {
-        title: "Reach Out, I'll Be There - The Four Tops (October 1966)",
+        title: w6_t[7],
         link: w6[7],
         week: 5
       },
       {
-        title: "I Heard It Through The Grapevine - Marvin Gaye (November 1968)",
+        title: w6_t[8],
         link: w6[8],
         week: 5
       },
       {
-        title:
-          "Tears of A Clown - Smokey Robinson and The Bandits (October 1970)",
+        title: w6_t[9],
         link: w6[9],
         week: 5
+      },
+
+      {
+        title: w7_t[0],
+        link: w7[0],
+        week: 6
+      },
+      {
+        title: w7_t[1],
+        link: w7[1],
+        week: 6
+      },
+      {
+        title: w7_t[2],
+        link: w7[2],
+        week: 6
+      },
+      {
+        title: w7_t[3],
+        link: w7[3],
+        week: 6
+      },
+      {
+        title: w7_t[4],
+        link: w7[4],
+        week: 6
+      },
+      {
+        title: w7_t[5],
+        link: w7[5],
+        week: 6
+      },
+      {
+        title: w7_t[6],
+        link: w7[6],
+        week: 6
+      },
+      {
+        title: w7_t[7],
+        link: w7[7],
+        week: 6
+      },
+      {
+        title: w7_t[8],
+        link: w7[8],
+        week: 6
+      },
+      {
+        title: w7_t[9],
+        link: w7[9],
+        week: 6
+      },
+
+      {
+        title: w7_t[10],
+        link: w7[10],
+        week: 6
+      },
+      {
+        title: w7_t[11],
+        link: w7[11],
+        week: 6
+      },
+      {
+        title: w7_t[12],
+        link: w7[12],
+        week: 6
+      },
+      {
+        title: w7_t[13],
+        link: w7[13],
+        week: 6
+      },
+      {
+        title: w7_t[14],
+        link: w7[14],
+        week: 6
+      },
+      {
+        title: w7_t[15],
+        link: w7[15],
+        week: 6
+      },
+      {
+        title: w7_t[16],
+        link: w7[16],
+        week: 6
+      },
+      {
+        title: w7_t[17],
+        link: w7[17],
+        week: 6
+      },
+      {
+        title: w7_t[18],
+        link: w7[18],
+        week: 6
+      },
+      {
+        title: w7_t[19],
+        link: w7[19],
+        week: 6
+      },
+
+      {
+        title: w8_t[0],
+        link: w8[0],
+        week: 7
+      },
+      {
+        title: w8_t[1],
+        link: w8[1],
+        week: 7
+      },
+      {
+        title: w8_t[2],
+        link: w8[2],
+        week: 7
+      },
+      {
+        title: w8_t[3],
+        link: w8[3],
+        week: 7
+      },
+      {
+        title: w8_t[4],
+        link: w8[4],
+        week: 7
+      },
+      {
+        title: w8_t[5],
+        link: w8[5],
+        week: 7
+      },
+      {
+        title: w8_t[6],
+        link: w8[6],
+        week: 7
+      },
+      {
+        title: w8_t[7],
+        link: w8[7],
+        week: 7
+      },
+      {
+        title: w8_t[8],
+        link: w8[8],
+        week: 7
+      },
+      {
+        title: w8_t[9],
+        link: w8[9],
+        week: 7
+      },
+
+      {
+        title: w8_t[10],
+        link: w8[10],
+        week: 7
+      },
+      {
+        title: w8_t[11],
+        link: w8[11],
+        week: 7
+      },
+      {
+        title: w8_t[12],
+        link: w8[12],
+        week: 7
+      },
+      {
+        title: w8_t[13],
+        link: w8[13],
+        week: 7
+      },
+      {
+        title: w8_t[14],
+        link: w8[14],
+        week: 7
+      },
+      {
+        title: w8_t[15],
+        link: w8[15],
+        week: 7
+      },
+      {
+        title: w8_t[16],
+        link: w8[16],
+        week: 7
+      },
+      {
+        title: w8_t[17],
+        link: w8[17],
+        week: 7
+      },
+      {
+        title: w8_t[18],
+        link: w8[18],
+        week: 7
+      },
+      {
+        title: w8_t[19],
+        link: w8[19],
+        week: 7
       }
     ]
   };
@@ -872,6 +1289,8 @@ class App extends Component {
           <button onClick={this.toggleWeekHandler.bind(this, 3)}>Week 4</button>
           <button onClick={this.toggleWeekHandler.bind(this, 4)}>Week 5</button>
           <button onClick={this.toggleWeekHandler.bind(this, 5)}>Week 6</button>
+          <button onClick={this.toggleWeekHandler.bind(this, 6)}>Week 7</button>
+          <button onClick={this.toggleWeekHandler.bind(this, 7)}>Week 8</button>
         </div>
         <div className="query">
           <input
@@ -893,9 +1312,9 @@ class App extends Component {
         <div className="disclaimer">
           Works only on web, best on Chrome or Firefox
         </div>
-        <div className="disclaimer">
+        {/* <div className="disclaimer">
           Probably taken down soon after midterms due to questionable legality
-        </div>
+        </div> */}
         <div className="footer">
           <span id="heart">&#169;</span> because blackboard is an absolute pain
           in the derrière
