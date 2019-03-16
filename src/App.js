@@ -15,7 +15,7 @@ class App extends Component {
       {
         title: "Somewhere Over the Rainbow - Judy Garland (1939)",
         link:
-          "https://cdnapisec.kaltura.com/p/1536481/sp/153648100/playManifest/entryId/1_wt3e6u3w/flavorIds/1_8klqznfy,1_6r27y9ts/format/applehttp/protocol/https/a.m3u8?referrer=aHR0cHM6Ly9saWJ3ZWIxMC5wcmluY2V0b24uZWR1&ks=MzM4NWZlYzI3ZDI4ZGY4YTRhYmEwNzAyZTY3NmY5NjFiMzM2YzlmZHwxNTM2NDgxOzE1MzY0ODE7MTU1MjMxOTY4ODsyOzYzNjg3ODE1Njg4OTQyNjAxNjtidXNlckBwcmluY2V0b24uZWR1O3N2aWV3OiAxX3d0M2U2dTN3Ow==&playSessionId=809cae7a-8bab-224f-e4cc-af6f6d6af4c3&clientTag=html5:v2.74.4&uiConfId=16552211",
+          "https://cfvod.kaltura.com/hls/p/1536481/sp/153648100/serveFlavor/entryId/1_wt3e6u3w/v/1/flavorId/1_8klqznfy/name/a.mp4/index.m3u8",
         week: 0
       },
       {
