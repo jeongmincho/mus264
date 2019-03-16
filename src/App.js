@@ -188,6 +188,87 @@ var w8 = [
   "https://cfvod.kaltura.com/hls/p/1536481/sp/153648100/serveFlavor/entryId/1_2u29w5m7/v/1/flavorId/1_06zv2w05/name/a.mp4/index.m3u8"
 ];
 
+var w9 = [
+  "https://cfvod.kaltura.com/hls/p/1536481/sp/153648100/serveFlavor/entryId/1_hc0708jh/v/1/flavorId/1_r6xbv4qk/name/a.mp4/index.m3u8",
+  "https://cfvod.kaltura.com/hls/p/1536481/sp/153648100/serveFlavor/entryId/1_y5vdlnqe/v/1/flavorId/1_31enows9/name/a.mp4/index.m3u8",
+  "https://cfvod.kaltura.com/hls/p/1536481/sp/153648100/serveFlavor/entryId/1_cvs3goua/v/1/flavorId/1_ucfhfsag/name/a.mp4/index.m3u8",
+  "https://cfvod.kaltura.com/hls/p/1536481/sp/153648100/serveFlavor/entryId/1_764lmy6v/v/1/flavorId/1_o6trxbx5/name/a.mp4/index.m3u8",
+  "https://cfvod.kaltura.com/hls/p/1536481/sp/153648100/serveFlavor/entryId/1_luhf6g3n/v/1/flavorId/1_yk2u0dbc/name/a.mp4/index.m3u8",
+  "https://cfvod.kaltura.com/hls/p/1536481/sp/153648100/serveFlavor/entryId/1_ud41xz58/v/1/flavorId/1_tl2hn754/name/a.mp4/index.m3u8",
+  "https://cfvod.kaltura.com/hls/p/1536481/sp/153648100/serveFlavor/entryId/1_t2ggagms/v/1/flavorId/1_dmok93ta/name/a.mp4/index.m3u8",
+  "https://cfvod.kaltura.com/hls/p/1536481/sp/153648100/serveFlavor/entryId/1_51fmwddx/v/1/flavorId/1_b1pyu99w/name/a.mp4/index.m3u8",
+  "https://cfvod.kaltura.com/hls/p/1536481/sp/153648100/serveFlavor/entryId/1_zqhqy1te/v/1/flavorId/1_3047hg22/name/a.mp4/index.m3u8",
+  "https://cfvod.kaltura.com/hls/p/1536481/sp/153648100/serveFlavor/entryId/1_tjtwf88s/v/1/flavorId/1_bwgvb3fm/name/a.mp4/index.m3u8",
+  "https://cfvod.kaltura.com/hls/p/1536481/sp/153648100/serveFlavor/entryId/1_z05dcvk5/v/1/flavorId/1_4cox6yfh/name/a.mp4/index.m3u8",
+  "https://cfvod.kaltura.com/hls/p/1536481/sp/153648100/serveFlavor/entryId/1_32bw0xxr/v/1/ev/3/flavorId/1_ud777gr2/name/a.mp4/index.m3u8"
+];
+
+var w10 = [
+  "https://cfvod.kaltura.com/hls/p/1536481/sp/153648100/serveFlavor/entryId/1_qvmo4fix/v/1/flavorId/1_uik9pry4/name/a.mp4/index.m3u8",
+  "https://cfvod.kaltura.com/hls/p/1536481/sp/153648100/serveFlavor/entryId/1_z71oc1i2/v/1/flavorId/1_8hyezdpz/name/a.mp4/index.m3u8",
+  "https://cfvod.kaltura.com/hls/p/1536481/sp/153648100/serveFlavor/entryId/1_zy1iku6z/v/1/flavorId/1_t5mebuu8/name/a.mp4/index.m3u8",
+  "https://cfvod.kaltura.com/hls/p/1536481/sp/153648100/serveFlavor/entryId/1_3s0h80i8/v/1/flavorId/1_j06jmcoe/name/a.mp4/index.m3u8",
+  "https://cfvod.kaltura.com/hls/p/1536481/sp/153648100/serveFlavor/entryId/1_5cdyrfit/v/1/flavorId/1_kwbj8o97/name/a.mp4/index.m3u8",
+  "https://cfvod.kaltura.com/hls/p/1536481/sp/153648100/serveFlavor/entryId/1_6wfcs8n5/v/1/flavorId/1_s6cahpy6/name/a.mp4/index.m3u8",
+  "https://cfvod.kaltura.com/hls/p/1536481/sp/153648100/serveFlavor/entryId/1_m6ag67ii/v/1/flavorId/1_a36y6mrp/name/a.mp4/index.m3u8",
+  "https://cfvod.kaltura.com/hls/p/1536481/sp/153648100/serveFlavor/entryId/1_9sho6380/v/1/flavorId/1_0mtrjrld/name/a.mp4/index.m3u8",
+  "https://cfvod.kaltura.com/hls/p/1536481/sp/153648100/serveFlavor/entryId/1_gxquch2c/v/1/flavorId/1_e2csyb6v/name/a.mp4/index.m3u8",
+  "https://cfvod.kaltura.com/hls/p/1536481/sp/153648100/serveFlavor/entryId/1_lzblyfiv/v/1/flavorId/1_4rvilvqs/name/a.mp4/index.m3u8",
+  "https://cfvod.kaltura.com/hls/p/1536481/sp/153648100/serveFlavor/entryId/1_y5umc807/v/1/flavorId/1_4ag8rpm3/name/a.mp4/index.m3u8",
+  "https://cfvod.kaltura.com/hls/p/1536481/sp/153648100/serveFlavor/entryId/1_8ustyc32/v/1/flavorId/1_axdusan2/name/a.mp4/index.m3u8",
+  "https://cfvod.kaltura.com/hls/p/1536481/sp/153648100/serveFlavor/entryId/1_s1gct3b4/v/1/flavorId/1_rgjp5opc/name/a.mp4/index.m3u8",
+  "https://cfvod.kaltura.com/hls/p/1536481/sp/153648100/serveFlavor/entryId/1_cr98yor6/v/1/flavorId/1_jdssrm43/name/a.mp4/index.m3u8",
+  "https://cfvod.kaltura.com/hls/p/1536481/sp/153648100/serveFlavor/entryId/1_8ittlsfp/v/1/flavorId/1_8t0r60w8/name/a.mp4/index.m3u8",
+  "https://cfvod.kaltura.com/hls/p/1536481/sp/153648100/serveFlavor/entryId/1_9kb4y4zc/v/1/flavorId/1_rxdd30og/name/a.mp4/index.m3u8",
+  "https://cfvod.kaltura.com/hls/p/1536481/sp/153648100/serveFlavor/entryId/1_wu4b7p6y/v/1/flavorId/1_xmxutm5s/name/a.mp4/index.m3u8",
+  "https://cfvod.kaltura.com/hls/p/1536481/sp/153648100/serveFlavor/entryId/1_i56majmm/v/1/flavorId/1_g14l9o77/name/a.mp4/index.m3u8",
+  "https://cfvod.kaltura.com/hls/p/1536481/sp/153648100/serveFlavor/entryId/1_4rklwuth/v/1/flavorId/1_tfk9kj10/name/a.mp4/index.m3u8",
+  "https://cfvod.kaltura.com/hls/p/1536481/sp/153648100/serveFlavor/entryId/1_4em6z6dm/v/1/ev/3/flavorId/1_mg0pny7b/name/a.mp4/index.m3u8"
+];
+
+var w11 = [
+  "https://cfvod.kaltura.com/hls/p/1536481/sp/153648100/serveFlavor/entryId/1_58o3mf2s/v/1/flavorId/1_0yyaubdj/name/a.mp4/index.m3u8",
+  "https://cfvod.kaltura.com/hls/p/1536481/sp/153648100/serveFlavor/entryId/1_w8mtff3n/v/1/flavorId/1_5kwge29l/name/a.mp4/index.m3u8",
+  "https://cfvod.kaltura.com/hls/p/1536481/sp/153648100/serveFlavor/entryId/1_qka9nxmm/v/1/flavorId/1_wyw3btol/name/a.mp4/index.m3u8",
+  "https://cfvod.kaltura.com/hls/p/1536481/sp/153648100/serveFlavor/entryId/1_5lcmtsyd/v/1/flavorId/1_z4yi4be0/name/a.mp4/index.m3u8",
+  "https://cfvod.kaltura.com/hls/p/1536481/sp/153648100/serveFlavor/entryId/1_hraqk2bg/v/1/flavorId/1_calr79z9/name/a.mp4/index.m3u8",
+  "https://cfvod.kaltura.com/hls/p/1536481/sp/153648100/serveFlavor/entryId/1_34zv672r/v/1/flavorId/1_2qvjfll7/name/a.mp4/index.m3u8",
+  "https://cfvod.kaltura.com/hls/p/1536481/sp/153648100/serveFlavor/entryId/1_mtb83hd4/v/1/flavorId/1_dxi1dsrk/name/a.mp4/index.m3u8",
+  "https://cfvod.kaltura.com/hls/p/1536481/sp/153648100/serveFlavor/entryId/1_1hw0j4hi/v/1/flavorId/1_s4d1hrc2/name/a.mp4/index.m3u8",
+  "https://cfvod.kaltura.com/hls/p/1536481/sp/153648100/serveFlavor/entryId/1_hsheyegh/v/1/flavorId/1_v5p5bk90/name/a.mp4/index.m3u8",
+  "https://cfvod.kaltura.com/hls/p/1536481/sp/153648100/serveFlavor/entryId/1_6x2aewdb/v/1/flavorId/1_0cwn8s5q/name/a.mp4/index.m3u8",
+  "https://cfvod.kaltura.com/hls/p/1536481/sp/153648100/serveFlavor/entryId/1_wzz0xif2/v/1/flavorId/1_u63w2p75/name/a.mp4/index.m3u8",
+  "https://cfvod.kaltura.com/hls/p/1536481/sp/153648100/serveFlavor/entryId/1_28akxjly/v/1/flavorId/1_bq9ef3jp/name/a.mp4/index.m3u8",
+  "https://cfvod.kaltura.com/hls/p/1536481/sp/153648100/serveFlavor/entryId/1_zuceo2xg/v/1/flavorId/1_4ttjj1jy/name/a.mp4/index.m3u8",
+  "https://cfvod.kaltura.com/hls/p/1536481/sp/153648100/serveFlavor/entryId/1_peefbrrq/v/1/flavorId/1_8574cqa5/name/a.mp4/index.m3u8",
+  "https://cfvod.kaltura.com/hls/p/1536481/sp/153648100/serveFlavor/entryId/1_ln2zqmgk/v/1/flavorId/1_bnylb70z/name/a.mp4/index.m3u8",
+  "https://cfvod.kaltura.com/hls/p/1536481/sp/153648100/serveFlavor/entryId/1_nzgmcui6/v/1/flavorId/1_whawsb7u/name/a.mp4/index.m3u8",
+  "https://cfvod.kaltura.com/hls/p/1536481/sp/153648100/serveFlavor/entryId/1_432lmrta/v/1/flavorId/1_626gblqk/name/a.mp4/index.m3u8",
+  "https://cfvod.kaltura.com/hls/p/1536481/sp/153648100/serveFlavor/entryId/1_jua7g7v9/v/1/flavorId/1_c24wbsm4/name/a.mp4/index.m3u8"
+];
+
+var w12 = [
+  "https://cfvod.kaltura.com/hls/p/1536481/sp/153648100/serveFlavor/entryId/1_yo0i7t0a/v/1/flavorId/1_mnyij9fi/name/a.mp4/index.m3u8",
+  "https://cfvod.kaltura.com/hls/p/1536481/sp/153648100/serveFlavor/entryId/1_5h2swisj/v/1/flavorId/1_owrzlbsy/name/a.mp4/index.m3u8",
+  "https://cfvod.kaltura.com/hls/p/1536481/sp/153648100/serveFlavor/entryId/1_c2r9gxin/v/1/flavorId/1_sg5a96k4/name/a.mp4/index.m3u8",
+  "https://cfvod.kaltura.com/hls/p/1536481/sp/153648100/serveFlavor/entryId/1_3ahugox6/v/1/flavorId/1_jnpidv41/name/a.mp4/index.m3u8",
+  "https://cfvod.kaltura.com/hls/p/1536481/sp/153648100/serveFlavor/entryId/1_4dg6dnqx/v/1/flavorId/1_8mgt71va/name/a.mp4/index.m3u8",
+  "https://cfvod.kaltura.com/hls/p/1536481/sp/153648100/serveFlavor/entryId/1_59ifvo7s/v/1/flavorId/1_w6m6mt5y/name/a.mp4/index.m3u8",
+  "https://cfvod.kaltura.com/hls/p/1536481/sp/153648100/serveFlavor/entryId/1_6i8ghkys/v/1/flavorId/1_jr0y5u73/name/a.mp4/index.m3u8",
+  "https://cfvod.kaltura.com/hls/p/1536481/sp/153648100/serveFlavor/entryId/1_tx9in82t/v/1/flavorId/1_a9uywk0w/name/a.mp4/index.m3u8",
+  "https://cfvod.kaltura.com/hls/p/1536481/sp/153648100/serveFlavor/entryId/1_b3ztzdm8/v/1/flavorId/1_8xejplsw/name/a.mp4/index.m3u8",
+  "https://cfvod.kaltura.com/hls/p/1536481/sp/153648100/serveFlavor/entryId/1_0kethowl/v/1/flavorId/1_tvbnhu31/name/a.mp4/index.m3u8",
+  "https://cfvod.kaltura.com/hls/p/1536481/sp/153648100/serveFlavor/entryId/0_ktq2hd27/v/2/ev/3/flavorId/0_s770dory/name/a.mp4/index.m3u8",
+  "https://cfvod.kaltura.com/hls/p/1536481/sp/153648100/serveFlavor/entryId/1_68281xih/v/1/flavorId/1_h35c3cig/name/a.mp4/index.m3u8",
+  "https://cfvod.kaltura.com/hls/p/1536481/sp/153648100/serveFlavor/entryId/1_su7h6u5r/v/1/flavorId/1_giwhj8pp/name/a.mp4/index.m3u8",
+  "https://cfvod.kaltura.com/hls/p/1536481/sp/153648100/serveFlavor/entryId/1_fhac1e2a/v/1/flavorId/1_d99v3ism/name/a.mp4/index.m3u8",
+  "https://cfvod.kaltura.com/hls/p/1536481/sp/153648100/serveFlavor/entryId/1_cxd7sfv9/v/1/flavorId/1_0edbqcml/name/a.mp4/index.m3u8",
+  "https://cfvod.kaltura.com/hls/p/1536481/sp/153648100/serveFlavor/entryId/1_o1frnry7/v/1/flavorId/1_xuxy4xgd/name/a.mp4/index.m3u8",
+  "https://cfvod.kaltura.com/hls/p/1536481/sp/153648100/serveFlavor/entryId/1_n6na9r82/v/1/flavorId/1_zz7g7fx5/name/a.mp4/index.m3u8",
+  "https://cfvod.kaltura.com/hls/p/1536481/sp/153648100/serveFlavor/entryId/1_hlgvbjlq/v/1/flavorId/1_tvhhrpyu/name/a.mp4/index.m3u8",
+  "https://cfvod.kaltura.com/hls/p/1536481/sp/153648100/serveFlavor/entryId/1_ic7d3nkv/v/1/flavorId/1_50gx71xz/name/a.mp4/index.m3u8"
+];
+
 var w1_t = [
   "Somewhere Over the Rainbow - Judy Garland (1939)",
   "All or Nothing at All - Frank Sinatra (1940; 1943)",
@@ -371,6 +452,88 @@ var w8_t = [
   "(I Can't Get No) Satisfaction - Rolling Stones (May 1965)",
   "Sympathy for the Devil - The Rolling Stones (November 1968)",
   "Sunshine of Your Love - Cream (November 1967)"
+];
+
+var w9_t = [
+  "Louie, Louie - The Kingsman (May 1963)",
+  "California Dreaming - Mamas and the Papas (January 1966)",
+  "Somebody To Love - Jefferson Airplane (February 1967)",
+  "San Francisco (be sure to wear flowers in your hair) - Scott, McKenzie (May 1967)",
+  "White Rabbit - Jefferson Airplane (June 1967)",
+  "Won't You Try/ Saturday Afternoon - Jefferson Airplane (December 1967)",
+  "Babe I'm gonna leave you - Quicksilver Messenger Service (1967)",
+  "Piece of My Heart - Janis Joplin, Big Brother and the Holding Company 9(August 1968)",
+  "Who Do You Love / Bo Diddley (March 1956)",
+  "Who Do You Love / When You Love / Where You Love - Quicksilver Messenger Service (March 1969)",
+  'Turn on Your Love Light - Bobby "Blue" Bland (1961)',
+  "Turn on Your Love Light - The Grateful Dead (November 1969)",
+  "When the Music's Over - Doors (live recording 1968-70)"
+];
+
+var w10_t = [
+  "Eight Miles High - The Byrds (March 1966)",
+  "Tomorrow Never Knows - The Beatles (August 1966)",
+  "Good Vibrations - The Beach Boys (October 1966)",
+  "Strawberry Fields Forever (demo sequence) - The Beatles (November, 1966)",
+  "Strawberry Fields Forever - The Beatles (February 1967)",
+  "Flaming - Pink Floyd (August 1967)",
+  "Bass Strings - Country Joe And The Fish (October 1967)",
+  "Incense and Peppermints - Strawberry Alarm Clock (April-November 1967)",
+  "The Red Telephone - Love (November 1967)",
+  "Hung Up On A Dream - The Zombies (April 1968)",
+  "In My Life - The Beatles (December 1965)",
+  "Don 't Talk (Put Your Head on my Shoulders) - The Beach Boys (May 1966)",
+  "I Just Wasn't Made For These Times - The Beach Boys (May 1966)",
+  "I Just Wasn't Made For These Times (backing track) - The Beach Boys (1966)",
+  "Eleanor Rigby - The Beatles (August 1966)",
+  "Eleanor Rigby (backing track) - The Beatles (August 1966)",
+  "Wonderful - The Beach Boys (December 1966)",
+  "Surf's Up - The Beach Boys (August 1971)",
+  "Lucy In the Sky With Diamonds - The Beatles (June 1967)",
+  "Sgt. Pepper's Lonely Hearts Club Band (reprise) / A Day in a Life - The Beatles (June 1967)"
+];
+
+var w11_t = [
+  "Help I'm a Rock/ It Can't Happen Here - Frank Zappa and The Mothers of Invention (July 1966)",
+  "A White Shade of Pale - Procul Harum (May 1967)",
+  "Grocer Jack (excerpt from A Teenage Opera) - Mark Wirtz (July 1967)",
+  "Nights in White Satin - The Moody Blues (March 1968)",
+  "Overture - The Who (May 1969)",
+  "Gemini Suite - Deep Purple (live recording, September 1970)",
+  "Roundabout - Yes (January 1972)",
+  "Spinning Wheel - Blood, Sweat and Tears (January 1969)",
+  "Introduction - Chicago Transit Authority (September 1969)",
+  "Pharos Dance (1) - Miles Davis (1970)",
+  "Hey Joe - The Leaves (April 1966)",
+  "Hey Joe - The Byrds (July 1966)",
+  "Hey Joe - Jimi Hendrix Experience (May 1967)",
+  "Flower Punk - Frank Zappa and The Mothers of Invention (January 1968)",
+  "Hey Joe - Wilson Pickett (Spring 1969)",
+  "Purple Haze - Jimi Hendrix Experience (May 1967)",
+  "Foxey Lady - Jimi Hendrix Experience (May 1967)",
+  "Whole Lotta Love - Led Zeppelin (October 1969)"
+];
+
+var w12_t = [
+  "Tougher Than Tough - Derrick Morgan (1967)",
+  "More Scorcha - Count Machuki and the Sound Dimension (1972)",
+  "Papa Was a Rollin' Stone - The Temptations (1972)",
+  "Livin' for the City - Stevie Wonder (1973)",
+  "Love to Love You Baby - Donna Summer (1975)",
+  "One Love - Bob Marley and the Wailers (1977)",
+  "Stayin' Alive - The Bee Gees (1977)",
+  "What cha' Gonna Do With My Lovin' - Stephanie Mills (1979)",
+  "Good Times - Chic (1979)",
+  "God Save the Queen - The Sex Pistols (1977)",
+  "Amen, Brother - The Wintsons (1969)",
+  "Don't Believe the Hype - Public Enemy (1988)",
+  "Straight outta Compton - N.W.A (1998)",
+  "Funky Drummer - James Brown (March 1970)",
+  "Apache - The Incredible Bongo Band (1973)",
+  "Give up the Funk (Tear the Roof off the Sucker) - Parliament (1976)",
+  "Rapper's Delight - Sugarhill Gang (September 1979)",
+  "Apache (Jump On It) - Sugarhill Gang (1981)",
+  "Rock Box - Run DMC (1984)"
 ];
 
 ReactGA.initialize("UA-135966055-1");
@@ -1189,6 +1352,369 @@ class App extends Component {
         title: w8_t[19],
         link: w8[19],
         week: 7
+      },
+
+      {
+        title: w9_t[0],
+        link: w9[0],
+        week: 8
+      },
+      {
+        title: w9_t[1],
+        link: w9[1],
+        week: 8
+      },
+      {
+        title: w9_t[2],
+        link: w9[2],
+        week: 8
+      },
+      {
+        title: w9_t[3],
+        link: w9[3],
+        week: 8
+      },
+      {
+        title: w9_t[4],
+        link: w9[4],
+        week: 8
+      },
+      {
+        title: w9_t[5],
+        link: w9[5],
+        week: 8
+      },
+      {
+        title: w9_t[6],
+        link: w9[6],
+        week: 8
+      },
+      {
+        title: w9_t[7],
+        link: w9[7],
+        week: 8
+      },
+      {
+        title: w9_t[8],
+        link: w9[8],
+        week: 8
+      },
+      {
+        title: w9_t[9],
+        link: w9[9],
+        week: 8
+      },
+
+      {
+        title: w9_t[10],
+        link: w9[10],
+        week: 8
+      },
+      {
+        title: w9_t[11],
+        link: w9[11],
+        week: 8
+      },
+      {
+        title: w9_t[12],
+        link: w9[12],
+        week: 8
+      },
+      {
+        title: w9_t[13],
+        link: w9[13],
+        week: 8
+      },
+
+      {
+        title: w10_t[0],
+        link: w10[0],
+        week: 9
+      },
+      {
+        title: w10_t[1],
+        link: w10[1],
+        week: 9
+      },
+      {
+        title: w10_t[2],
+        link: w10[2],
+        week: 9
+      },
+      {
+        title: w10_t[3],
+        link: w10[3],
+        week: 9
+      },
+      {
+        title: w10_t[4],
+        link: w10[4],
+        week: 9
+      },
+      {
+        title: w10_t[5],
+        link: w10[5],
+        week: 9
+      },
+      {
+        title: w10_t[6],
+        link: w10[6],
+        week: 9
+      },
+      {
+        title: w10_t[7],
+        link: w10[7],
+        week: 9
+      },
+      {
+        title: w10_t[8],
+        link: w10[8],
+        week: 9
+      },
+      {
+        title: w10_t[9],
+        link: w10[9],
+        week: 9
+      },
+
+      {
+        title: w10_t[10],
+        link: w10[10],
+        week: 9
+      },
+      {
+        title: w10_t[11],
+        link: w10[11],
+        week: 9
+      },
+      {
+        title: w10_t[12],
+        link: w10[12],
+        week: 9
+      },
+      {
+        title: w10_t[13],
+        link: w10[13],
+        week: 9
+      },
+      {
+        title: w10_t[14],
+        link: w10[14],
+        week: 9
+      },
+      {
+        title: w10_t[15],
+        link: w10[15],
+        week: 9
+      },
+      {
+        title: w10_t[16],
+        link: w10[16],
+        week: 9
+      },
+      {
+        title: w10_t[17],
+        link: w10[17],
+        week: 9
+      },
+      {
+        title: w10_t[18],
+        link: w10[18],
+        week: 9
+      },
+      {
+        title: w10_t[19],
+        link: w10[19],
+        week: 9
+      },
+
+      {
+        title: w11_t[0],
+        link: w11[0],
+        week: 10
+      },
+      {
+        title: w11_t[1],
+        link: w11[1],
+        week: 10
+      },
+      {
+        title: w11_t[2],
+        link: w11[2],
+        week: 10
+      },
+      {
+        title: w11_t[3],
+        link: w11[3],
+        week: 10
+      },
+      {
+        title: w11_t[4],
+        link: w11[4],
+        week: 10
+      },
+      {
+        title: w11_t[5],
+        link: w11[5],
+        week: 10
+      },
+      {
+        title: w11_t[6],
+        link: w11[6],
+        week: 10
+      },
+      {
+        title: w11_t[7],
+        link: w11[7],
+        week: 10
+      },
+      {
+        title: w11_t[8],
+        link: w11[8],
+        week: 10
+      },
+      {
+        title: w11_t[9],
+        link: w11[9],
+        week: 10
+      },
+
+      {
+        title: w11_t[10],
+        link: w11[10],
+        week: 10
+      },
+      {
+        title: w11_t[11],
+        link: w11[11],
+        week: 10
+      },
+      {
+        title: w11_t[12],
+        link: w11[12],
+        week: 10
+      },
+      {
+        title: w11_t[13],
+        link: w11[13],
+        week: 10
+      },
+      {
+        title: w11_t[14],
+        link: w11[14],
+        week: 10
+      },
+      {
+        title: w11_t[15],
+        link: w11[15],
+        week: 10
+      },
+      {
+        title: w11_t[16],
+        link: w11[16],
+        week: 10
+      },
+      {
+        title: w11_t[17],
+        link: w11[17],
+        week: 10
+      },
+
+      {
+        title: w12_t[0],
+        link: w12[0],
+        week: 11
+      },
+      {
+        title: w12_t[1],
+        link: w12[1],
+        week: 11
+      },
+      {
+        title: w12_t[2],
+        link: w12[2],
+        week: 11
+      },
+      {
+        title: w12_t[3],
+        link: w12[3],
+        week: 11
+      },
+      {
+        title: w12_t[4],
+        link: w12[4],
+        week: 11
+      },
+      {
+        title: w12_t[5],
+        link: w12[5],
+        week: 11
+      },
+      {
+        title: w12_t[6],
+        link: w12[6],
+        week: 11
+      },
+      {
+        title: w12_t[7],
+        link: w12[7],
+        week: 11
+      },
+      {
+        title: w12_t[8],
+        link: w12[8],
+        week: 11
+      },
+      {
+        title: w12_t[9],
+        link: w12[9],
+        week: 11
+      },
+
+      {
+        title: w12_t[10],
+        link: w12[10],
+        week: 11
+      },
+      {
+        title: w12_t[11],
+        link: w12[11],
+        week: 11
+      },
+      {
+        title: w12_t[12],
+        link: w12[12],
+        week: 11
+      },
+      {
+        title: w12_t[13],
+        link: w12[13],
+        week: 11
+      },
+      {
+        title: w12_t[14],
+        link: w12[14],
+        week: 11
+      },
+      {
+        title: w12_t[15],
+        link: w12[15],
+        week: 11
+      },
+      {
+        title: w12_t[16],
+        link: w12[16],
+        week: 11
+      },
+      {
+        title: w12_t[17],
+        link: w12[17],
+        week: 11
+      },
+      {
+        title: w12_t[18],
+        link: w12[18],
+        week: 11
       }
     ]
   };
@@ -1291,6 +1817,16 @@ class App extends Component {
           <button onClick={this.toggleWeekHandler.bind(this, 5)}>Week 6</button>
           <button onClick={this.toggleWeekHandler.bind(this, 6)}>Week 7</button>
           <button onClick={this.toggleWeekHandler.bind(this, 7)}>Week 8</button>
+          <button onClick={this.toggleWeekHandler.bind(this, 8)}>Week 9</button>
+          <button onClick={this.toggleWeekHandler.bind(this, 9)}>
+            Week 10
+          </button>
+          <button onClick={this.toggleWeekHandler.bind(this, 10)}>
+            Week 11
+          </button>
+          <button onClick={this.toggleWeekHandler.bind(this, 11)}>
+            Week 12
+          </button>
         </div>
         <div className="query">
           <input
