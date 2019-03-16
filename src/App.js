@@ -494,7 +494,7 @@ var w10_t = [
 ];
 
 var w11_t = [
-  "Help I'm a Rock/ It Can't Happen Here - Frank Zappa and The Mothers of Invention (July 1966)",
+  "Help I'm a Rock / It Can't Happen Here - Frank Zappa and The Mothers of Invention (July 1966)",
   "A White Shade of Pale - Procul Harum (May 1967)",
   "Grocer Jack (excerpt from A Teenage Opera) - Mark Wirtz (July 1967)",
   "Nights in White Satin - The Moody Blues (March 1968)",
@@ -503,7 +503,7 @@ var w11_t = [
   "Roundabout - Yes (January 1972)",
   "Spinning Wheel - Blood, Sweat and Tears (January 1969)",
   "Introduction - Chicago Transit Authority (September 1969)",
-  "Pharos Dance (1) - Miles Davis (1970)",
+  "Pharao's Dance (1) - Miles Davis (1970)",
   "Hey Joe - The Leaves (April 1966)",
   "Hey Joe - The Byrds (July 1966)",
   "Hey Joe - Jimi Hendrix Experience (May 1967)",
