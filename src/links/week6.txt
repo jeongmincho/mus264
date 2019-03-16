@@ -1,0 +1,10 @@
+https://cfvod.kaltura.com/hls/p/1536481/sp/153648100/serveFlavor/entryId/1_w17sv2fe/v/1/flavorId/1_ta3xtjgv/name/a.mp4/index.m3u8
+https://cfvod.kaltura.com/hls/p/1536481/sp/153648100/serveFlavor/entryId/1_j7jshbsn/v/1/flavorId/1_e4lra506/name/a.mp4/index.m3u8
+https://cfvod.kaltura.com/hls/p/1536481/sp/153648100/serveFlavor/entryId/1_5n8tcy1a/v/1/flavorId/1_acokl0mv/name/a.mp4/index.m3u8
+https://cfvod.kaltura.com/hls/p/1536481/sp/153648100/serveFlavor/entryId/1_a8dsdcya/v/1/flavorId/1_erlwgtpt/name/a.mp4/index.m3u8
+https://cfvod.kaltura.com/hls/p/1536481/sp/153648100/serveFlavor/entryId/1_azqpv4gz/v/1/flavorId/1_akuzxfwf/name/a.mp4/index.m3u8
+https://cfvod.kaltura.com/hls/p/1536481/sp/153648100/serveFlavor/entryId/1_iq5ahaft/v/1/flavorId/1_p25j113l/name/a.mp4/index.m3u8
+https://cfvod.kaltura.com/hls/p/1536481/sp/153648100/serveFlavor/entryId/1_t51qsqjw/v/1/flavorId/1_ndf8d69e/name/a.mp4/index.m3u8
+https://cfvod.kaltura.com/hls/p/1536481/sp/153648100/serveFlavor/entryId/1_lbao897p/v/1/flavorId/1_519pmjd5/name/a.mp4/index.m3u8
+https://cfvod.kaltura.com/hls/p/1536481/sp/153648100/serveFlavor/entryId/1_g1jrj4m1/v/1/flavorId/1_rimf9f43/name/a.mp4/index.m3u8
+https://cfvod.kaltura.com/hls/p/1536481/sp/153648100/serveFlavor/entryId/1_chozo2hc/v/1/flavorId/1_dfv4svmy/name/a.mp4/index.m3u8
