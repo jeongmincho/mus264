@@ -495,7 +495,7 @@ var w10_t = [
 ];
 
 var w11_t = [
-  "Help I'm a Rock / It Can't Happen Here - Frank Zappa and The Mothers of Invention (July 1966)",
+  "Help I'm a Rock / It Can't Happen Here - Frank Zappa and The Mothers of Invention (1966)",
   "A White Shade of Pale - Procul Harum (May 1967)",
   "Grocer Jack (excerpt from A Teenage Opera) - Mark Wirtz (July 1967)",
   "Nights in White Satin - The Moody Blues (March 1968)",
