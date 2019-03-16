@@ -189,6 +189,7 @@ var w8 = [
 ];
 
 var w9 = [
+  "https://cfvod.kaltura.com/hls/p/1536481/sp/153648100/serveFlavor/entryId/1_vstxormq/v/1/flavorId/1_51nx29jw/name/a.mp4/index.m3u8",
   "https://cfvod.kaltura.com/hls/p/1536481/sp/153648100/serveFlavor/entryId/1_hc0708jh/v/1/flavorId/1_r6xbv4qk/name/a.mp4/index.m3u8",
   "https://cfvod.kaltura.com/hls/p/1536481/sp/153648100/serveFlavor/entryId/1_y5vdlnqe/v/1/flavorId/1_31enows9/name/a.mp4/index.m3u8",
   "https://cfvod.kaltura.com/hls/p/1536481/sp/153648100/serveFlavor/entryId/1_cvs3goua/v/1/flavorId/1_ucfhfsag/name/a.mp4/index.m3u8",
@@ -321,27 +322,27 @@ var w3_t = [
   "Blue Suede Shoes - Elvis Presley (August 1956)",
   "Honey, Don't! - Carl Perkins (December 1955)",
   "Heartbreak Hotel - Elvis Presley (January 1956)",
-  "All I Have to do is Dream - Everly Brothers (April 1958)",
   "Be-bop-a-lua - Gene Vincent & His Blue Caps (June 1956)",
-  "Only the Lonely - Roy Orbison (March 1960)"
-];
-
-var w4_t = [
+  "All I Have to do is Dream - Everly Brothers (April 1958)",
+  "Only the Lonely - Roy Orbison (March 1960)",
   "Bo Diddley - Bo Diddley (March 1955)",
   "Tutti Frutti - Little Richard (December 1955)",
   "Tutti Frutti - Pat Boone (January 1956)",
   "Ain't That A Shame - Fats Domino (April 1955)",
   "Ain't That A Shame - Pat Boone (July 1955)",
   "Whole Lotta Shakin' Goin' On - Jerry Lee Lewis (March 1957)",
-  "Not Fade Away - Buddy Holly (October 1957)",
-  "Not Fade Away - The Rolling Stones (May 1964)",
   "That'll Be The Day - Buddy Holly and the Crickets (May 1957)",
   "That'll Be The Day - The Quarry Men (1958)",
+  "Not Fade Away - Buddy Holly (October 1957)",
+  "Not Fade Away - The Rolling Stones (May 1964)",
   "Great Balls of Fire - Jerry Lee Lewis, vocals, piano (November 1957)",
   "Johnny B. Goode - Chuck Berry (April 1958)",
   "Johnny B. Goode - The Beatles (January 1964)",
   "Carol - Chuck Berry (May 1958)",
-  "Carol - The Rolling Stones (May 1964)",
+  "Carol - The Rolling Stones (May 1964)"
+];
+
+var w4_t = [
   "It's Too Soon To Know - The Orioles (July 1948)",
   "Gee - The Crows (June 1953)",
   "Sh-Boom - The Chords (April 1954)",
@@ -353,10 +354,7 @@ var w4_t = [
   "Little Star - The Elegants (June 1958)",
   "Hushabye - The Mystics (April 1959)",
   "Hushabye - The Beach Boys (July 1964)",
-  "Big Girls Don't Cry -The Four Seasons (October 1962)"
-];
-
-var w5_t = [
+  "Big Girls Don't Cry -The Four Seasons (October 1962)",
   "Diana - Paul Anka (August 1954)",
   "Dream Lover - Bobby Darin (March 1959)",
   "The Twist - Chubby Checker (June 1960)",
@@ -369,7 +367,10 @@ var w5_t = [
   "Surfin' USA - The Beach Boys (March 1963)",
   "Graduation Day - The Four Freshmen (April 1956)",
   "Graduation Day - The Beach Boys (Live 1964)",
-  "Fun, Fun. Fun - The Beach Boys (February 1964)",
+  "Fun, Fun. Fun - The Beach Boys (February 1964)"
+];
+
+var w5_t = [
   "Down in Mexico - The Coasters (1956)",
   "Da Doo Ron Ron - The Crystals (March 1963)",
   "Be My Baby - The Ronnettes (July 1963)",
@@ -382,19 +383,19 @@ var w5_t = [
   "God Only Knows (vocal track) The Beach Boys (1966)",
   "God Only Knows - The Beach Boys (July 1966)",
   "The Long and Winding Road (original track) - Beatles (recorded January 31, 1969)",
-  "The Long and Winding Road - Beatles (May 1970)"
-];
-
-var w6_t = [
-  "I got a woman - Ray Charles (November 1954)",
+  "The Long and Winding Road - Beatles (May 1970)",
+  "I Got A Woman - Ray Charles (November 1954)",
   "There goes my Baby - The Drifters (1959)",
   "Wonderful World - Sam Cooke (April 1960)",
   "Papa’s Got A Brand New Bag",
   "In the Midnight Hour - Wilson Pickett (May 1965)",
   "Respect - Otis Redding (August 1965)",
   "Respect - Aretha Franklin (February 1967)",
-  "People get ready - The Impressions (1965)",
-  "Say It Loud- I'm Black and I'm Proud - James Brown (August 1968)",
+  "People Get Ready - The Impressions (1965)",
+  "Say It Loud- I'm Black and I'm Proud - James Brown (August 1968)"
+];
+
+var w6_t = [
   "Please Mr. Postman - The Marvelettes (August 1961)",
   "Please Mr. Postman - Beatles (November 1963)",
   "The Way You do the Things You do - The Temptations (January 1964)",
@@ -409,18 +410,18 @@ var w6_t = [
 
 var w7_t = [
   "Love Me Do - The Beatles (June, 1962)",
-  "From Me to You - The Beatles (April, 1963)",
   "Please Please Me - The Beatles (March, 1963)",
-  "She loves you The Beatles (August, 1963)",
+  "From Me to You - The Beatles (April, 1963)",
+  "She loves you - The Beatles (August, 1963)",
   "I Want To Hold Your Hand - The Beatles (November, 1963)",
   "Twist and Shout - The Isley Brothers (June, 1962)",
   "Twist and Shout - The Beatles (March 1963)	",
   "You've Got To Hide Your Love Away - The Beatles (August, 1965)",
   "Yesterday - The Beatles (August, 1965)",
   "Good Night Irene - Leadbelly (1943)",
-  "Goodnight Irene - The Weavers (June 1950)",
-  "Pete Seeger, “Wasn’t That a Time?” (1957)",
+  "Good Night Irene - The Weavers (June 1950)",
   "This land is your land - Woody Guthrie (1945)",
+  "Wasn’t That a Time? - Pete Seeger (1957)",
   "Tom Dooley - G. B. Grayson and Henry Whitter (1929)",
   "Tom Dooley - Kingston Trio (1958)",
   "Blowin' in the Wind - Bob Dylan (May 1963)",
@@ -439,7 +440,6 @@ var w8_t = [
   "Positively 4th Street - Bob Dylan (September 1965)",
   "The Sound of Silence - Simon and Garfunkel (October 1964)",
   "The Sounds of Silence - Simon and Garfunkel (December 1965)",
-  "I'm A Man - The Yardbirds (October, 1965)",
   "All Along the Watchtower - Bob Dylan (December 1967)",
   "All Along the Watchtower - Jimi Hendrix (February 1968)",
   "Hoochie Coochie (I’m Your Hoochie Coochie Man) - Muddy Waters (January 1954)",
@@ -449,6 +449,7 @@ var w8_t = [
   "It's all Over Now - Rolling Stones (July 1964)",
   "House of the Rising Sun - Eric Burton and the Animals (June 1964)",
   "I'm A Man - Bo Diddley (March 1955)",
+  "I'm A Man - The Yardbirds (October, 1965)",
   "(I Can't Get No) Satisfaction - Rolling Stones (May 1965)",
   "Sympathy for the Devil - The Rolling Stones (November 1968)",
   "Sunshine of Your Love - Cream (November 1967)"
@@ -463,7 +464,7 @@ var w9_t = [
   "Won't You Try/ Saturday Afternoon - Jefferson Airplane (December 1967)",
   "Babe I'm gonna leave you - Quicksilver Messenger Service (1967)",
   "Piece of My Heart - Janis Joplin, Big Brother and the Holding Company 9(August 1968)",
-  "Who Do You Love / Bo Diddley (March 1956)",
+  "Who Do You Love - Bo Diddley (March 1956)",
   "Who Do You Love / When You Love / Where You Love - Quicksilver Messenger Service (March 1969)",
   'Turn on Your Love Light - Bobby "Blue" Bland (1961)',
   "Turn on Your Love Light - The Grateful Dead (November 1969)",
@@ -482,7 +483,7 @@ var w10_t = [
   "The Red Telephone - Love (November 1967)",
   "Hung Up On A Dream - The Zombies (April 1968)",
   "In My Life - The Beatles (December 1965)",
-  "Don 't Talk (Put Your Head on my Shoulders) - The Beach Boys (May 1966)",
+  "Don't Talk (Put Your Head on my Shoulders) - The Beach Boys (May 1966)",
   "I Just Wasn't Made For These Times - The Beach Boys (May 1966)",
   "I Just Wasn't Made For These Times (backing track) - The Beach Boys (1966)",
   "Eleanor Rigby - The Beatles (August 1966)",
@@ -516,24 +517,24 @@ var w11_t = [
 
 var w12_t = [
   "Tougher Than Tough - Derrick Morgan (1967)",
-  "More Scorcha - Count Machuki and the Sound Dimension (1972)",
+  "More Scorcher - Count Machuki and the Sound Dimension (1972)",
   "Papa Was a Rollin' Stone - The Temptations (1972)",
   "Livin' for the City - Stevie Wonder (1973)",
   "Love to Love You Baby - Donna Summer (1975)",
   "One Love - Bob Marley and the Wailers (1977)",
   "Stayin' Alive - The Bee Gees (1977)",
-  "What cha' Gonna Do With My Lovin' - Stephanie Mills (1979)",
+  "What Cha' Gonna Do With My Lovin' - Stephanie Mills (1979)",
   "Good Times - Chic (1979)",
   "God Save the Queen - The Sex Pistols (1977)",
   "Amen, Brother - The Wintsons (1969)",
-  "Don't Believe the Hype - Public Enemy (1988)",
-  "Straight outta Compton - N.W.A (1998)",
   "Funky Drummer - James Brown (March 1970)",
   "Apache - The Incredible Bongo Band (1973)",
   "Give up the Funk (Tear the Roof off the Sucker) - Parliament (1976)",
   "Rapper's Delight - Sugarhill Gang (September 1979)",
   "Apache (Jump On It) - Sugarhill Gang (1981)",
-  "Rock Box - Run DMC (1984)"
+  "Rock Box - Run DMC (1984)",
+  "Don't Believe the Hype - Public Enemy (1988)",
+  "Straight outta Compton - N.W.A (1998)"
 ];
 
 ReactGA.initialize("UA-135966055-1");
@@ -862,6 +863,7 @@ class App extends Component {
         link: w3[28],
         week: 2
       },
+
       {
         title: w4_t[0],
         link: w4[0],
@@ -1251,6 +1253,11 @@ class App extends Component {
         link: w7[19],
         week: 6
       },
+      {
+        title: w7_t[20],
+        link: w7[20],
+        week: 6
+      },
 
       {
         title: w8_t[0],
@@ -1418,11 +1425,6 @@ class App extends Component {
       {
         title: w9_t[12],
         link: w9[12],
-        week: 8
-      },
-      {
-        title: w9_t[13],
-        link: w9[13],
         week: 8
       },
 
