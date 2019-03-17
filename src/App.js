@@ -1810,7 +1810,7 @@ class App extends Component {
   render() {
     return (
       <div className="container">
-        <div className="buttons">
+        {/* <div className="buttons">
           <button onClick={this.toggleWeekHandler.bind(this, 0)}>Week 1</button>
           <button onClick={this.toggleWeekHandler.bind(this, 1)}>Week 2</button>
           <button onClick={this.toggleWeekHandler.bind(this, 2)}>Week 3</button>
@@ -1846,9 +1846,16 @@ class App extends Component {
             I'm feeling lucky today?
           </button>
         </div>
-        <div className="content">{this.createElements()}</div>
+        <div className="content">{this.createElements()}</div> */}
         <div className="disclaimer">
-          Works only on web, best on Chrome or Firefox
+          For faster loading, we've moved over to{" "}
+          <a
+            href="https://beachboysrsogreat.netlify.com/"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            beachboysrsogreat.netlify.com
+          </a>
         </div>
         {/* <div className="disclaimer">
           Probably taken down soon after midterms due to questionable legality

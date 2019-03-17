@@ -5,6 +5,7 @@
   "dependencies": {
     "express": "^4.16.4",
     "hls.js": "^0.12.3",
+    "new-relic-agent-react": "^2.0.1",
     "react": "^16.8.4",
     "react-audio-player": "^0.11.0",
     "react-dom": "^16.8.4",
