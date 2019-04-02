@@ -9,7 +9,7 @@ html, body, #app, #app>div {
 body {
   width: 100%;
   /* display: flex; */
-  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("bg.jpg") no-repeat center center;
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("assets/bg.jpg") no-repeat center center;
   background-size: cover;
   background-attachment: fixed;
   align-items: center;

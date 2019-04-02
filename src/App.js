@@ -1,8 +1,8 @@
 import React, { Component } from "react";
 import ReactGA from "react-ga";
 import ReactPlayer from "react-player";
-import { songArray } from "./Songs.js";
-import Buttons from "./Buttons.js";
+import { songArray } from "./assets/Songs.js";
+import Buttons from "./components/Buttons.js";
 import "./App.css";
 
 ReactGA.initialize("UA-135966055-1");
