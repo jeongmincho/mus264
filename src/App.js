@@ -70,12 +70,14 @@ class App extends Component {
   };
 
   toggleLuckyHandler = () => {
-    var max = this.state.songs.length;
+    const max = this.state.songs.length;
+    const min = 120;
+    let luckNum = Math.floor(Math.random() * (max - min)) + min;
     this.search.value = "";
     this.setState({
       query: "",
       weekFlag: null,
-      lucky: Math.floor(Math.random() * max)
+      lucky: luckNum
     });
   };
 
@@ -122,7 +124,7 @@ class App extends Component {
         </div>
         <div className="luckyBox">
           <button className="lucky" onClick={this.toggleLuckyHandler}>
-            I'm feeling lucky today?
+            Feeling lucky today? Click Me!
           </button>
         </div>
         <div className="content">{this.createElements()}</div>
