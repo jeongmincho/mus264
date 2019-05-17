@@ -24,9 +24,6 @@
     "eject": "react-scripts eject",
     "heroku-postbuild": "echo Skip build on Heroku"
   },
-  "eslintConfig": {
-    "extends": "react-app"
-  },
   "browserslist": [
     ">0.2%",
     "not dead",
