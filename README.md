@@ -1,6 +1,6 @@
 # Urban Houndogs and Phil Spector's Sunglasses
 
-This site is made to improve the MUS264 course experience.
+[This site](https://beachboysrsogreat.netlify.com/) is made to improve the MUS264 course experience.
 
 ## Problem
 
